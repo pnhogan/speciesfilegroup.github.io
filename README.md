@@ -1,2 +1,2 @@
-# homepage
-Front facing homepage of the Species File Group.  A stub now.
+
+Front facing homepage of the Species File Group. 
