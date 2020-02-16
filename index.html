@@ -1,70 +1,45 @@
-<!DOCTYPE html>
-<head>
-  <title> Species File Group </title>
-  <meta charset="UTF-8">
-  <meta name="description" content="Homepage of the Species File Group.">
-  <meta name="keywords" content="SpeciesFiles,3i,CoL,Catalog Of Life,Global Names,TaxonWorks,Biodiversity Informatics,Taxonomy,Species,DataScience,Species File Group">
-  <meta name="author" content="Species File Group">
-</head>
+---
+layout: default
+title: Species File Group - Home
+---
 
-<body>
-  <div style="position:fixed; top:10%; left:10%;">
-    <div style=" font-size: 200%; line-height: 150%;">
-      <h1> Species File Group  </h1>        
+<br><br><br><br>
 
-      <p> <a href="https://github.com/SpeciesFileGroup">On Github</a>, <a href="http://blog.speciesiesfilegroup.org">Blog</a></p>
+<!-- Main jumbotron for a primary marketing message or call to action -->
+<div class="jumbotron">
+  <div class="container">
+    <h1 class="display-3">Species File Group</h1>
+    <p class="lead">The Species <small class="text-muted">(life on Earth)</small> File <small class="text-muted">(software)</small> Group <small class="text-muted">(collaborating community)</small> builds tools that facilitate indexing, description, and study of the Earth’s species.</p>
+    <p><a class="btn btn-primary btn-lg" href="/about" role="button">Learn more &raquo;</a></p>
+  </div>
+</div>
 
-      <h2> Workbenches </h2>
-      <p>
-      <a href="http://taxonworks.org">TaxonWorks</a><br>
-      <a href="http://software.speciesfile.org/HomePage/Software/SoftwareHomePage.aspx">Species Files</a>,
-      <a href="http://dmitriev.speciesfile.org/">3i</a>,
-      <a href="http://mx.phenomix.org/">mx</a>
-      </p> 
-
-      <h2> Global Names </h2>
-      <p>
-      <a href="http://globalnames.org/">Homepage</a>
-      </p>
-
-      <h2> Catalog of Life </h2>
-      <p> The Species File Group faciliates development of the <a href="http://catalogueoflife.org/">Catalog of Life</a> through its financial support to the Editor. </p>
-    </div> 
-    <p style="font-size:8pt;"> disclaimer: this site uses Google Analytics - font: <span id="font"></span> </p>
+<div class="container">
+  <!-- Example row of columns -->
+  <div class="row">
+    <div class="col-md-4">
+      <h2>Software</h2>
+      <p>Specializing in <a href="http://taxonworks.org">workbenches</a> for biodiversity scientists and <a href="http://globalnames.org/">indexing <em>all</em> the Earth's species</a>, our group also produces a wide range of open-source libraries and utilities.</p>
+      <p><a class="btn btn-secondary" href="software.html" role="button">View details &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+      <h2>Data</h2>
+      <p>Decades long use of the tools and software used by us and our collaborators has resulted in high quality biodiversity data hosted by our group.</p>
+      <p><a class="btn btn-secondary" href="data.html" role="button">View details &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+      <h2>Collaboration</h2>
+      <p>Our resources serve the scientific community through collaboration including global infrastructure like the <a href="http://catalogueoflife.org">Catalogue of Life</a>. Help us grow!</p>
+      <p><a class="btn btn-secondary" href="collaboration.html" role="button">View details &raquo;</a></p>
+    </div>
   </div>
 
-  <script> 
-      // mindless font swapper that leaves flash of unstyled text, but hey!
-      var fonts = [ 'Poiret+One' ];
+  <br><br>
+  <div class="row">
+    <div class="col-md-13">
+      <h3>Give</h3>
+      <p class="lead">You can financially support the efforts of the Species File Group and its collaborators, coming soon- donate via the University of Illinois.</a></p>
+    </div>
+  </div> 
 
-      var item = fonts[Math.floor(Math.random()*fonts.length)];
-
-      // thanks http://stackoverflow.com/questions/574944/how-to-load-up-css-files-using-javascript
-      // you could encode the css path itself to generate id..
-      var cssId = 'myCss';  
-      if (!document.getElementById(cssId))
-      {
-        var head  = document.getElementsByTagName('head')[0];
-        var link  = document.createElement('link');
-        link.id   = cssId;
-        link.rel  = 'stylesheet';
-        link.type = 'text/css';
-        link.href = 'https://fonts.googleapis.com/css?family=' + item;
-        link.media = 'all';
-        head.appendChild(link);
-      }
-
-      document.body.style = "font-family:'" + item.replace("+", " ") + "', sans-serif;";
-      document.getElementById('font').innerHTML = item.replace("+", " "); 
-
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-85440666-2', 'auto');
-      ga('send', 'pageview');
-  </script>
-</body>
-</html>
-
+</div> <!-- /container -->
