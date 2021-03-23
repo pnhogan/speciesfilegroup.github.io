@@ -23,7 +23,7 @@ title: Events
 <h3> Weekly Digitization and TaxonWorks Zoom </h3>
 <ul>
   <li>What: Help grow a community of digitization expertise around TaxonWorks. A 1-2 hr weekly open question and answer session with a focus on natural history specimen digitization using TaxonWorks. The agenda is set by those with specific questions. Updates to TaxonWorks are briefly covered. Design and discussion of new functionality frequently happens. </li>
-  <li>When: <b>Wednesdays, weekly. 13:30 CDT (18:30 UTC)</b></li>
+  <li>When: <b>Wednesdays, weekly. 13:30 CDT (18:30 UTC), <span data-utc-to-local="18:30, 19:30"></span></b></li>
   <li>Where: Zoom.  </li>
   <li>Who: Open to anyone. </li>
   <li><a href="/calendar/digitization.ics">Add to calendar (ICS file).</a></li>
@@ -32,7 +32,7 @@ title: Events
 <h3> Nomenclature and TaxonWorks Zoom </h3>
 <ul>
   <li>What: TaxonWorks excels at digitizing nomenclature and its metadata. The agenda is set by users with specific questions and use cases. In addition we highlight new functionality related to digitization of nomenclature. </li>
-  <li>When: <b>Wednesdays, alternating other week (currently March 17, 24, etc.). 10:30 CDT (15:30 UTC)</b></li>
+  <li>When: <b>Wednesdays, alternating other week (currently March 17, 24, etc.). 10:30 CDT (15:30 UTC), <span data-utc-to-local="15:30, 16:30"></span></b></li>
   <li>Where: Zoom. </li>
   <li>Who: Open to anyone. </li>
   <li>How: To join, find a current participant or use the <a href="https://gitter.im/SpeciesFileGroup/taxonworks">Gitter channel</a> and they will pass on the Zoom link. We do not post the link here to prevent Zoom bombing.</li>
@@ -48,3 +48,33 @@ title: Events
 
 <h3> TaxonWorks Together 2020 </h3>
 See <a href="https://github.com/SpeciesFileGroup/taxonworks_together_2020">the github-based homepage</a> for this event.
+
+
+<script>
+  function convertUTCToLocal(time) {
+    const date = new Date();
+    const [hours, minutes, seconds] = time.split(":");
+    const utcTime = new Date(
+      Date.UTC(
+      date.getFullYear(),
+      date.getMonth(),
+      date.getDay(),
+      hours,
+      minutes || '', 
+      seconds || '')
+    );
+  
+    return utcTime.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
+  }
+
+  function parseUTCtoTimezone (data) {
+    const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone.replaceAll('_', ' ');
+    const time = data.split(',').map(function (item) { return convertUTCToLocal(item) }).join(' - ')
+
+    return time + ' ' + timeZone;
+  }
+
+  document.querySelectorAll('[data-utc-to-local]').forEach(function (element) {
+    element.textContent = parseUTCtoTimezone(element.getAttribute('data-utc-to-local'));
+  })
+</script>
