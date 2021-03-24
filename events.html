@@ -32,7 +32,7 @@ title: Events
 <h3> Nomenclature and TaxonWorks Zoom </h3>
 <ul>
   <li>What: TaxonWorks excels at digitizing nomenclature and its metadata. The agenda is set by users with specific questions and use cases. In addition we highlight new functionality related to digitization of nomenclature. </li>
-  <li>When: <b>Wednesdays, alternating other week (currently March 17, 24, etc.). 10:30 CDT (15:30 UTC), <span data-utc-to-local="15:30, 16:30"></span></b></li>
+  <li>When: <b>Wednesdays, alternating other week (currently <span data-alternate-week="March, 31 2021"></span>). 10:30 CDT (15:30 UTC), <span data-utc-to-local="15:30, 16:30"></span></b></li>
   <li>Where: Zoom. </li>
   <li>Who: Open to anyone. </li>
   <li>How: To join, find a current participant or use the <a href="https://gitter.im/SpeciesFileGroup/taxonworks">Gitter channel</a> and they will pass on the Zoom link. We do not post the link here to prevent Zoom bombing.</li>
@@ -53,7 +53,7 @@ See <a href="https://github.com/SpeciesFileGroup/taxonworks_together_2020">the g
 <script>
   function convertUTCToLocal(time) {
     const date = new Date();
-    const [hours, minutes, seconds] = time.split(":");
+    const [hours, minutes, seconds] = time.split(':');
     const utcTime = new Date(
       Date.UTC(
       date.getFullYear(),
@@ -74,6 +74,34 @@ See <a href="https://github.com/SpeciesFileGroup/taxonworks_together_2020">the g
     return time + ' ' + timeZone;
   }
 
+  function alternateWeekOnDay(date) {
+    const monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+    const startDate = new Date(date)
+    const dayOfWeek = startDate.getDay()
+    const now = new Date(new Date().toDateString())
+    const DifferenceInTime = now.getTime() - startDate.getTime()
+    const DifferenceDays = DifferenceInTime / (1000 * 3600 * 24)
+    const passTwoWeeks = DifferenceDays / 7 % 2
+
+    if(passTwoWeeks <= 1 && passTwoWeeks != 0) {
+      now.setDate(now.getDate() + 7)
+    }
+
+    const result = new Date(
+      now.getFullYear(),
+      now.getMonth(),
+      now.getDate() + (7 + dayOfWeek - now.getDay()) % 7)
+
+    if (result < now) {
+      result.setDate(result.getDate() + 7)
+    }
+    
+    return monthNames[result.getMonth()] + ' '  + result.getDate()
+  }
+
+  document.querySelectorAll('[data-alternate-week]').forEach(function (element) {
+    element.textContent = alternateWeekOnDay(element.getAttribute('data-alternate-week'))
+  })
   document.querySelectorAll('[data-utc-to-local]').forEach(function (element) {
     element.textContent = parseUTCtoTimezone(element.getAttribute('data-utc-to-local'));
   })
