@@ -2,15 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TODO
 BEGIN:VEVENT
+UID:8799311c-8c86-469d-b1a3-52ba24014fce@speciesfilegroup.org
+LAST-MODIFIED:20210426T144600
 SUMMARY:TaxonWorks Nomenclature Zoom
-DESCRIPTION:TODO   
-TZID:America/Chicago
-DTSTART:20210324T103000
-DTEND:20210202T113000
+DTSTART;TZID=America/Chicago:20210324T103000
+DTEND;TZID=America/Chicago:20210202T113000
 DTSTAMP:20210202T170000
 RRULE:FREQ=WEEKLY;INTERVAL=2;UNTIL=20380119T000000
-UID:8799311c-8c86-469d-b1a3-52ba24014fce@speciesfilegroup.org
-DESCRIPTION:TaxonWorks "nomenclature" zoom.  
-LOCATION:Zoom. See https://lists.illinois.edu/lists/info/sfg-announce or vist https://gitter.im/SpeciesFileGroup/taxonworks to chat live.
+DESCRIPTION:TaxonWorks "nomenclature" zoom. See https://lists.illinois.edu/lists/info/sfg-announce or vist https://gitter.im/SpeciesFileGroup/taxonworks to chat live.
+LOCATION: Zoom. 
 END:VEVENT
 END:VCALENDAR
