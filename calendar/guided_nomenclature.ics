@@ -1,14 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:TODO
 BEGIN:VEVENT
-SUMMARY:TaxonWorks Nomenclature Zoom
+UID:8799311c-8c86-469d-b1a3-52ba24014fce@speciesfilegroup.org
+SUMMARY:Guided exploration of nomenclature in TaxonWorks
 DTSTART;TZID=America/Chicago:20210407T103000
 DTEND;TZID=America/Chicago:20210407T120000
 DTSTAMP:20210407T103000
 RRULE:FREQ=WEEKLY;INTERVAL=2;UNTIL=20380119T000000
-UID:8799311c-8c86-469d-b1a3-52ba24014fce@speciesfilegroup.org
-DESCRIPTION:Guided exploration of nomenclature in TaxonWorks.  
-LOCATION:Zoom. See https://lists.illinois.edu/lists/info/sfg-announce or vist https://gitter.im/SpeciesFileGroup/taxonworks to chat live.
+DESCRIPTION:Guided exploration of nomenclature in TaxonWorks. See https://lists.illinois.edu/lists/info/sfg-announce or vist https://gitter.im/SpeciesFileGroup/taxonworks to chat live and get the Zoom link. 
+LOCATION:Zoom.
 END:VEVENT
 END:VCALENDAR
