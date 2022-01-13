@@ -47,28 +47,36 @@ The “early sessions” have topics (but are flexible, as need be). In the “l
     <td>1st</td>
     <td>Nomenclature</td>
     <td>Open</td>
-    <td></td>
+    <td>
+      <span data-next-date="0" data-day="4"></span>
+    </td>
     <td></td>
   </tr>
   <tr>
     <td>2nd</td>
     <td>Digitization</td>
     <td></td>
-    <td></td>
+    <td>
+      <span data-next-date="1" data-day="4"></span>
+    </td>
     <td></td>
   </tr>
   <tr>
     <td>3rd</td>
     <td>Matrices/Observations</td>
     <td>Open</td>
-    <td></td>
+    <td>
+      <span data-next-date="2" data-day="4"></span>
+    </td>
     <td></td>
   </tr>
   <tr>
     <td>4th</td>
     <td>Technical</td>
     <td></td>
-    <td></td>
+    <td>
+      <span data-next-date="3" data-day="4"></span>
+    </td>
     <td></td>
   </tr>
 </tbody>
@@ -133,7 +141,7 @@ See <a href="https://github.com/SpeciesFileGroup/taxonworks_together_2020">the g
 </ul>
 
 <script>
-  function convertUTCToLocal(time) {
+  function convertUTCToLocal (time) {
     const date = new Date();
     const [hours, minutes, seconds] = time.split(':');
     const utcTime = new Date(
@@ -156,7 +164,7 @@ See <a href="https://github.com/SpeciesFileGroup/taxonworks_together_2020">the g
     return time + ' ' + timeZone;
   }
 
-  function alternateWeekOnDay(date) {
+  function alternateWeekOnDay (date) {
     const monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
     const startDate = new Date(date)
     const dayOfWeek = startDate.getDay()
@@ -181,10 +189,50 @@ See <a href="https://github.com/SpeciesFileGroup/taxonworks_together_2020">the g
     return monthNames[result.getMonth()] + ' '  + result.getDate()
   }
 
-  document.querySelectorAll('[data-alternate-week]').forEach(function (element) {
-    element.textContent = alternateWeekOnDay(element.getAttribute('data-alternate-week'))
-  })
-  document.querySelectorAll('[data-utc-to-local]').forEach(function (element) {
-    element.textContent = parseUTCtoTimezone(element.getAttribute('data-utc-to-local'));
-  })
+function dayInMonth (day, month, year) {
+  const days = new Date(year, month, 0).getDate()
+  const weekDays = [day - (new Date(year + '/' + month + '/01').getDay())]
+
+  for (let i = weekDays[0] + 7; i < days; i += 7) {
+    weekDays.push(i)
+  }
+
+  return weekDays.filter(day => day > 0)
+}
+
+function twoDigits (number) {
+  return ("0" + number).slice(-2)
+}
+
+function getNextDateFromDayAndWeek (day, week) {
+  const currentDate = new Date()
+  const currentMonth = (currentDate.getMonth() + 1)
+  const currentYear = currentDate.getFullYear()
+  const nextDate = new Date(currentDate.setMonth(currentMonth))
+  const nextMonth = nextDate.getMonth() + 1
+  const nextYear = nextDate.getFullYear()
+
+  const DaysThisMonth = dayInMonth(day, currentMonth, currentYear)
+  const DaysNextMonth = dayInMonth(day, nextMonth, nextYear)
+
+  return currentDate.getDate() > DaysThisMonth[week]
+    ? `${nextYear}/${twoDigits(nextMonth)}/${twoDigits(DaysNextMonth[week])}`
+    : `${currentYear}/${twoDigits(currentMonth)}/${twoDigits(DaysThisMonth[week])}`
+}
+
+
+document.querySelectorAll('[data-alternate-week]').forEach(element => {
+  element.textContent = alternateWeekOnDay(element.getAttribute('data-alternate-week'))
+})
+
+document.querySelectorAll('[data-utc-to-local]').forEach(element => {
+  element.textContent = parseUTCtoTimezone(element.getAttribute('data-utc-to-local'));
+})
+
+document.querySelectorAll('[data-next-date]').forEach(element => {
+  const week = element.getAttribute('data-next-date')
+  const day = element.getAttribute('data-day')
+
+  element.textContent = getNextDateFromDayAndWeek(Number(day), Number(week))
+})
 </script>
