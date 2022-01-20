@@ -1,0 +1,68 @@
+---
+layout: default
+title: Blog
+pagination: 
+ enabled: true
+---
+
+<div class="container">
+  <div class="row g-5">
+    <div class="col-md-8">
+      <header class="blog-header py-3">
+        <h3 class="pb-4 mb-4 fst-italic border-bottom">
+          Propodeum 
+        </h3>
+      </header>
+
+      {% for post in paginator.posts %}
+      <article class="blog-post">
+        <h2 class="blog-post-title">{{ post.title }}</h2>
+      <p class="blog-post-meta">{{ post.date}} by <a href="#">{{ post.author }} </a></p>
+      {{ post.excerpt }}
+
+      <br>
+      <a href="{{post.url}}">Continue reading ... </a>
+    </article>
+    {% endfor %}
+
+    <nav class="blog-pagination" aria-label="Pagination">
+      {% if paginator.previous_page %}
+      <a class="btn btn-outline-primary" href="{{ paginator.previous_page_path }}">Older</a>
+      {% else %}
+      <span class="btn btn-outline-secondary disabled">Older</span>
+      {% endif %}
+
+      <span class="page_number ">
+        Page: {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages}}
+      </span>
+
+      {% if paginator.next_page %}
+      <a class="btn btn-outline-primary" href="{{ paginator.next_page_path }}" >Newer</a>
+      {% else %}
+      <span class="btn btn-outline-secondary disabled">Newer</span>
+      {% endif %}
+    </nav>
+  </div>
+
+  <div class="col-md-4">
+    <div class="position-sticky" style="top: 2rem;">
+      <div class="p-4 mb-3 bg-light rounded">
+        <h4 class="fst-italic">About</h4>
+        <p class="mb-0">A blog with musings from the Species File Group and collaborators. Want to contribute, or a link-out? Let's talk, ping us!<br/><br/> Why <i>Propodeum</i>? See <a href="/announce/2022/01/20/welcome-to-propodeum.html">our first post</a>.</p>
+      </div>
+
+      <div class="p-4">
+        <h4 class="fst-italic">Archives</h4>
+        <ol class="list-unstyled mb-0">
+          <li><i>Not yet!</i></li>
+        </ol>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+</div>
+
+

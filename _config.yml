@@ -31,6 +31,18 @@ github_username:  mjy
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate-v2
+
+pagination:
+  enabled: true
+  debug: true
+  collection: 'posts'
+  per_page: 4
+  permalink: '/blog/:num/'
+  indexpage: 'blog'
+
+timezone: America/Chicago
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

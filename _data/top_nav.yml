@@ -1,0 +1,15 @@
+items:
+  - name: Software 
+    url: /software.html
+  - name: Data
+    url: /data.html
+  - name: Collaboration
+    url: /collaboration.html
+  - name: Events
+    url: /events.html
+  - name: Blog
+    url: /blog.html
+  - name: Who
+    url: /who.html
+  - name: About
+    url: /about.html
