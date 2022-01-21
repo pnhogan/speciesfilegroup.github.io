@@ -14,18 +14,18 @@ pagination:
         </h3>
       </header>
 
-      {% for post in paginator.posts %}
-      <article class="blog-post">
-        <h2 class="blog-post-title">{{ post.title }}</h2>
-      <p class="blog-post-meta">{{ post.date}} by <a href="#">{{ post.author }} </a></p>
-      {{ post.excerpt }}
+    {% for post in paginator.posts %}
+      <article class="container">
+        <h2>{{ post.title }}</h2>
+        <p>{{ post.date}} by <a href="#">{{ post.author }} </a></p>
+        
+        {{ post.excerpt }}
 
-      <br>
-      <a href="{{post.url}}">Continue reading ... </a>
-    </article>
+        <a class="btn btn-primary" href="{{post.url}}">Continue reading...</a>
+      </article>
     {% endfor %}
 
-    <nav class="blog-pagination" aria-label="Pagination">
+    <nav class="my-4 container" aria-label="Pagination">
       {% if paginator.previous_page %}
       <a class="btn btn-outline-primary" href="{{ paginator.previous_page_path }}">Older</a>
       {% else %}
@@ -42,6 +42,7 @@ pagination:
       <span class="btn btn-outline-secondary disabled">Newer</span>
       {% endif %}
     </nav>
+
   </div>
 
   <div class="col-md-4">

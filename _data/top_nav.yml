@@ -9,7 +9,7 @@ items:
     url: /events.html
   - name: Blog
     url: /blog.html
-  - name: Who
-    url: /who.html
+  - name: "Site map"
+    url: /sitemap.html
   - name: About
     url: /about.html
