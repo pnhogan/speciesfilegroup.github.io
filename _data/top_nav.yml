@@ -1,10 +1,10 @@
 items:
   - name: Software 
     url: /software.html
-  - name: Data
-    url: /data.html
   - name: Collaboration
     url: /collaboration.html
+  - name: Data
+    url: /data.html
   - name: Events
     url: /events.html
   - name: Blog

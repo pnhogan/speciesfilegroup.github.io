@@ -1,0 +1,17 @@
+<div class="container">
+  <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+    <p class="mb-0 text-muted">Content on these pages (https://speciesfilegroup.org) is <a class="text-muted" href="https://creativecommons.org/share-your-work/public-domain/cc0/">CC 0</a>. </p>
+    <p class="mb-0 text-muted">This site uses Google Analytics.</p>
+
+    <ul class="nav align-items-center justify-content-center">
+      {% for item in site.data.top_nav.items %}
+      {% if page.url == item.url %}{% assign current = true %}{% else %}{% assign current = false %}{% endif %}
+      <li class="nav-item mx-auto">
+        <a class="nav-link px-2 text-muted" href="{{ item.url }}">{{ item.name }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </footer>
+</div>
+
+

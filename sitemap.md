@@ -2,7 +2,6 @@
 layout: default
 title: Site map
 ---
-
 ## Hosted or managed websites
 
 ### Current
