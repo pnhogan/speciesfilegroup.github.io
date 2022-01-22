@@ -15,26 +15,27 @@ title: Site map
 * [stats.taxonworks.org](https://stats.taxonworks.org)
 
 #### Species Files
-* [Orthoptera](http://orthoptera.speciesfile.org) 
-* [Plecoptera](http://plecoptera.speciesfile.org) 
-* [Phasmida](http://phasmida.speciesfile.org) 
-* [Blattodea](http://blattodea.speciesfile.org) 
-* [Lygaeoidea](http://lygaeoidea.speciesfile.org) 
 * [Aphid](http://aphid.speciesfile.org) 
+* [Blattodea](http://blattodea.speciesfile.org) 
 * [Coreoidea](http://coreoidea.speciesfile.org) 
+* [Lygaeoidea](http://lygaeoidea.speciesfile.org) 
 * [Mantodea](http://mantodea.speciesfile.org) 
+* [Orthoptera](http://orthoptera.speciesfile.org) 
+* [Phasmida](http://phasmida.speciesfile.org) 
+* [Plecoptera](http://plecoptera.speciesfile.org) 
 * [Psocodea](http://psocodea.speciesfile.org) 
 
 #### Misc
 * [3I Interactive Keys and Taxonomic Databases](http://dmitriev.speciesfile.org/index.asp) 
-* [Hymenoptera Anatomy Ontology Portal](https://portal.hymao.org) 
-* [TenebrioniDBase](http://tenebrionidbase.org) 
-* [Hymenoptera Anatomy Ontology](http://hymao.org)
-* [Universal Chalcidoidea Database](https://github.com/chalcid/jncdb)
 * [Chalcids 101](https://outreach.chalcid.org)
-* [The Diapriidae](http://diapriid.org)
 * [Evanioidea Online](http://evanioidea.info)
+* [Hymenoptera Anatomy Ontology Portal](https://portal.hymao.org) 
+* [Hymenoptera Anatomy Ontology](http://hymao.org)
 * [Parasitoids of Fruit-Infesting Tephritidae](http://paroffit.org)
+* [TenebrioniDBase](http://tenebrionidbase.org) 
+* [The Diapriidae](http://diapriid.org)
+* [Universal Chalcidoidea Database](https://github.com/chalcid/jncdb)
+* [Treehoppers - Aetalionidae, Melizoderidae, and Membracidae (Hemiptera)](http://treehoppers.insectmuseum.org/) 
 
 #### Repositories
 * [Species File Group on Github](https://github.com/SpeciesFileGroup)
