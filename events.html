@@ -237,7 +237,7 @@ title: Events
 
 function dayInMonth (day, month, year) {
   const days = new Date(year, month, 0).getDate()
-  const weekDays = [day - (new Date(year + '/' + month + '/01').getDay())]
+  const weekDays = [(day + 1) - (new Date(year + '/' + month + '/01').getDay())]
 
   for (let i = weekDays[0] + 7; i < days; i += 7) {
     weekDays.push(i)
@@ -304,9 +304,9 @@ function isTimeAlreadyPassed(startTime, endTime) {
 }
 
 function addDays (date, days) {
-    date.setDate(date.getDate() + days)
-    return date
-  }
+  date.setDate(date.getDate() + days)
+  return date
+}
 
 const earlyDateElement = document.querySelector('#early-time')
 const lateDateElement = document.querySelector('#late-time')
