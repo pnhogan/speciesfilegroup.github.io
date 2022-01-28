@@ -48,7 +48,10 @@ title: Events
           <span data-open>Open</span>
         </td>
         <td>
-          <span data-next-date="0" data-day="4"></span>
+          <span 
+            data-every-week="0"
+            data-day="wednesday">
+          </span>
         </td>
         <td>
           <span data-countdown></span>
@@ -61,7 +64,9 @@ title: Events
         <td></td>
         <td>
           <span 
-            data-next-date="1" data-day="4"></span>
+            data-every-week="1" 
+            data-day="wednesday">
+          </span>
         </td>
         <td>
           <span data-countdown></span>
@@ -75,7 +80,10 @@ title: Events
           <span data-open>Open</span>
         </td>
         <td>
-          <span data-next-date="2" data-day="4"></span>
+          <span 
+            data-every-week="2"
+            data-day="wednesday">
+          </span>
         </td>
         <td>
           <span data-countdown></span>
@@ -87,7 +95,10 @@ title: Events
         <td>Technical</td>
         <td></td>
         <td>
-          <span data-next-date="3" data-day="4"></span>
+          <span
+            data-every-week="3"
+            data-day="wednesday">
+          </span>
         </td>
         <td>
           <span data-countdown></span>
@@ -162,6 +173,16 @@ title: Events
 </div>
 
 <script>
+  const days = [
+    'sunday', 
+    'monday', 
+    'tuesday', 
+    'wednesday', 
+    'thursday', 
+    'friday', 
+    'saturday'
+  ]
+
   function convertUTCToLocal (time) {
     const date = new Date();
     const [hours, minutes, seconds] = time.split(':');
@@ -267,10 +288,10 @@ function getNextDateObject (date) {
 
 function printCountDown(element, dateObject) {
    element.innerHTML = `<div class="countdown py-2">
-      <span class="h5 font-weight-bold">${dateObject.days}</span>Day
-      <span class="h5 font-weight-bold">${dateObject.hours}</span>Hr
-      <span class="h5 font-weight-bold">${dateObject.minutes}</span>Min
-      <span class="h5 font-weight-bold">${dateObject.seconds}</span>Sec
+      <span class="h6 font-weight-bold">${dateObject.days}</span>d
+      <span class="h6 font-weight-bold">${dateObject.hours}</span>h
+      <span class="h6 font-weight-bold">${dateObject.minutes}</span>m
+      <span class="h6 font-weight-bold">${dateObject.seconds}</span>s
     </div>`
 }
 
@@ -294,10 +315,10 @@ const [startLateTime, endLateTime] = getUTCDatesInLocal(lateDateElement.getAttri
 
 
 const eventsElement = document.querySelectorAll('tbody.events tr').forEach(element => {
-  const nextDateElement = element.querySelector('[data-next-date]')
+  const nextDateElement = element.querySelector('[data-every-week]')
   const countdownElement = element.querySelector('[data-countdown]')
-  const week = nextDateElement.getAttribute('data-next-date')
-  const day = nextDateElement.getAttribute('data-day')
+  const week = nextDateElement.getAttribute('data-every-week')
+  const day = days.findIndex(item => item === nextDateElement.getAttribute('data-day'))
 
   const isOpen = !!element.querySelector('[data-open]')
 
