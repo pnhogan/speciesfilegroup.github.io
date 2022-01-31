@@ -108,6 +108,7 @@ title: Events
           <span data-countdown></span>
         </td>
       </tr>
+
     </tbody>
   </table>
 
@@ -239,15 +240,22 @@ title: Events
     return monthNames[result.getMonth()] + ' '  + result.getDate()
   }
 
-function dayInMonth (day, month, year) {
-  const days = new Date(year, month, 0).getDate()
-  const weekDays = [(day + 1) - (new Date(year + '/' + month + '/01').getDay())]
+function dayInMonth (d, day) {
+  const weekDays = []
+  const month = d.getMonth()
+  
+  d.setDate(1)
 
-  for (let i = weekDays[0] + 7; i < days; i += 7) {
-    weekDays.push(i)
+  while (d.getDay() !== day) {
+    d.setDate(d.getDate() + 1)
   }
 
-  return weekDays.filter(day => day > 0)
+  while (d.getMonth() === month) {
+    weekDays.push(d.getDate())
+    d.setDate(d.getDate() + 7)
+  }
+
+  return weekDays
 }
 
 function twoDigits (number) {
@@ -261,8 +269,8 @@ function getNextDateFromDayAndWeek (day, week, currentDate = new Date()) {
   const nextMonth = nextDate.getMonth() + 1
   const nextYear = nextDate.getFullYear()
 
-  const DaysThisMonth = dayInMonth(day, currentMonth, currentYear)
-  const DaysNextMonth = dayInMonth(day, nextMonth, nextYear)
+  const DaysThisMonth = dayInMonth(new Date(`${currentYear}/${currentMonth}/01`), day)
+  const DaysNextMonth = dayInMonth(new Date(`${nextYear}/${nextMonth}/01`), day)
 
   return currentDate.getDate() > DaysThisMonth[week]
     ? `${nextYear}/${twoDigits(nextMonth)}/${twoDigits(DaysNextMonth[week])}`
@@ -293,9 +301,9 @@ function getNextDateObject (date) {
 function printCountDown(element, dateObject) {
    element.innerHTML = `<div class="countdown py-2">
       <span class="h6 font-weight-bold">${dateObject.days}</span>d
-      <span class="h6 font-weight-bold">${dateObject.hours}</span>h
-      <span class="h6 font-weight-bold">${dateObject.minutes}</span>m
-      <span class="h6 font-weight-bold">${dateObject.seconds}</span>s
+      <span class="h6 font-weight-bold">${twoDigits(dateObject.hours)}</span>h
+      <span class="h6 font-weight-bold">${twoDigits(dateObject.minutes)}</span>m
+      <span class="h6 font-weight-bold">${twoDigits(dateObject.seconds)}</span>s
     </div>`
 }
 
@@ -329,13 +337,12 @@ const eventsElement = document.querySelectorAll('tbody.events tr').forEach(eleme
   
   function updateElements () {
     let newDate = getNextDateFromDayAndWeek(Number(day), Number(week))
+    let dateObject
     const earlyEventStartTime = new Date(newDate + ' ' + startEarlyTime)
     const earlyEventEndTime = new Date(newDate + ' ' + endEarlyTime)
     const lateEventStartTime = new Date(newDate + ' ' + startLateTime)
     const lateEventEndTime = new Date(newDate + ' ' + endLateTime)
     const now = new Date()
-
-    let dateObject = getNextDateObject(newDate)
 
     if (isTimeAlreadyPassed(now, earlyEventStartTime)) {
       if (!isTimeAlreadyPassed(now, earlyEventEndTime)) {
@@ -347,7 +354,7 @@ const eventsElement = document.querySelectorAll('tbody.events tr').forEach(eleme
               countdownElement.innerHTML = "<span>We're live!</span>"  
             } else {
               newDate = getNextDateFromDayAndWeek(Number(day), Number(week), addDays(new Date(), 1))
-              dateObject = getNextDateObject(newDate)
+              dateObject = getNextDateObject(newDate + ' ' + startEarlyTime)
 
               printCountDown(countdownElement, dateObject)
             }
@@ -359,7 +366,7 @@ const eventsElement = document.querySelectorAll('tbody.events tr').forEach(eleme
           }
         } else {
           newDate = getNextDateFromDayAndWeek(Number(day), Number(week), addDays(new Date(), 1))
-          dateObject = getNextDateObject(newDate)
+          dateObject = getNextDateObject(newDate + ' ' + startEarlyTime)
 
           printCountDown(countdownElement, dateObject)
         }
