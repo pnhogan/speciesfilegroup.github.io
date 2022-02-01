@@ -28,6 +28,10 @@ twitter_username:
 github_username:  mjy 
 
 # Build settings
+
+kramdown:
+  input: Kramdown
+
 theme: minima
 plugins:
   - jekyll-feed
