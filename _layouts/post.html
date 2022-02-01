@@ -2,12 +2,14 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<div class="container lh-lg">
+  <h1>{{ page.title }}</h1>
+  <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 
-{{ content }}
+  {{ content }}
 
-{{ page.paginator }}
+  {{ page.paginator }}
 
-<a class="btn btn-primary" href="/blog.html">Back</a>
+  <a class="btn btn-primary" href="/blog.html">Back</a>
+</div>
 
