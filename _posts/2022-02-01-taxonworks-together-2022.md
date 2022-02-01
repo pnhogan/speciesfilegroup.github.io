@@ -12,7 +12,7 @@ categories: event
 
 ### Guests!
 
-We opened our week with a series of user perspectives. Hear directly from Chris Dietrich, Lily Hart, Jim Wooley and John Heraty, Heidi Hopkins, Kojun Kanda, Michelle Kohler, and Maria Marta Cigliano about TW from their points-of-view. [Their talks are available at YouTube.][5]
+We opened our week with a series of user perspectives. Hear directly from Chris Dietrich, Lily Hart, Jim Woolley and John Heraty, Heidi Hopkins, Kojun Kanda, Michelle Kohler, and Maria Marta Cigliano about TW from their points-of-view. [Their talks are available at YouTube.][5]
 
 Our plenary speaker, Beckett Sterner (Arizon State University, [https://orcid.org/0000-0001-5219-7616][6]) presented: [Building a Community Around Your Taxonomic Needs][7] which stimulated a great discussion around such topics as group data curation, data pooling strategies, and ideas about what makes a community long-lived. His session is [available on the TaxonWorks\' YouTube][8]. Insights from this session offer that inclusiveness, collective benefit, credit and attribution are all important variables for sustainable data portals. In our *user perspectives* session, contributors noted how much they appreciate the benefit of being able to work as a group using TW. Local to global, the Species File Group builds software, tools, and a commons that support a taxonomist's individual and collaborative workflows to use and manage complex, detailed nomenclatural, taxonomic, and specimen-related data. All of us look forward to findings from Beckett's recently awarded NSF grant: [Explaining Differential Success in Biodiversity Knowledge Commons][9].
 
