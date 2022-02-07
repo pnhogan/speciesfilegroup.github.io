@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # TaxonWorks in production at the Species File Group
 _This document will change, please check back frequently until this message is gone._ It is essentially a **memorandum of understanding** to manage expectations and ensure everyone is on the same page.
 
@@ -15,7 +19,7 @@ This document pertains only to the instance(s) the **SFG** maintain(s), presentl
 # Memorandum of understanding
 
 ## This document
-* This is not a legal document but rather a means of communicating aspects of our scientific collaborations. 
+* _This is not a legal document but rather a means of communicating aspects of our scientific collaborations._
 * The **SFG** seeks to be open, and transparent, and in doing so collaborating **scientists** will best understand our relationship with them.
 * The **SFG** is unable to provide any legal guarantees regarding any of our collaborations.  We're all **scientists** doing science, stuff happens.
 
@@ -46,6 +50,7 @@ The TaxonWorks community follows a [Code of Conduct](https://github.com/SpeciesF
 Questions, concerns, and suggestions for improvement to this document, and any of the services the **SFG** participates in, can be added to this repository via the Issue tracker.  Private concerns can be addressed to Matt Yoder or Ed DeWalt.
 
 # FAQ
+
 ## Does the SFG charge for use of https://sfg.taxonworks.org?
 No. This is an open collaboration, in turn the **SFG** hopes that our collaborating **scientists** will help [contribute back to the community](https://github.com/SpeciesFileGroup/taxonworks_doc/blob/master/CONTRIBUTING.md).
 

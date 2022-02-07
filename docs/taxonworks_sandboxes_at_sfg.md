@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Sandboxes
 The Species File Group has numerous sandboxes for testing and training purposes.  Their role is described here.  Sandboxes are online (web accessible).  
 
@@ -40,7 +43,9 @@ You may be flagged as an administrator.  Administrators can do *everything* in t
 ```
 
 # Troubleshooting
+
 ## Disappearing images, broken image links
 Image records are not wiped during software updates, by image files *are*.  In other words don't depend on seeing your images for very long in a sandbox.
+
 ## Unable to logon
 * We do our best to maintain users across sandbox wipes, however your account may be wiped. If you can not request a new password request a new sandbox account.
