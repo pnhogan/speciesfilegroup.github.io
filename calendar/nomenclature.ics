@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:3a0cdfd5-0545-4f23-b7b0-1aba80e0b134@speciesfilegroup.org
+LAST-MODIFIED:20210427T113900
+SUMMARY:TaxonWorks Nomenclature Zoom
+DTSTART;TZID=America/Chicago:20210324T103000
+DTEND;TZID=America/Chicago:20210202T113000
+DTSTAMP:20210202T170000
+RRULE:FREQ=WEEKLY;INTERVAL=2;UNTIL=20380119T000000
+DESCRIPTION:TaxonWorks "nomenclature" zoom. See https://lists.illinois.edu/lists/info/sfg-announce or vist https://gitter.im/SpeciesFileGroup/taxonworks to chat live.
+LOCATION: Zoom. 
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://speciesfilegroup.org/feed.xml" rel="self" type="application/atom+xml" /><link href="http://speciesfilegroup.org/" rel="alternate" type="text/html" /><updated>2022-02-08T13:35:34-06:00</updated><id>http://speciesfilegroup.org/feed.xml</id><title type="html">Species File Group</title><subtitle>Homepage of the Species File Group. </subtitle><entry><title type="html">Describe TaxonWorks (data model)</title><link href="http://speciesfilegroup.org/announce/2022/02/08/describe-taxonworks.html" rel="alternate" type="text/html" title="Describe TaxonWorks (data model)" /><published>2022-02-08T13:30:00-06:00</published><updated>2022-02-08T13:30:00-06:00</updated><id>http://speciesfilegroup.org/announce/2022/02/08/describe-taxonworks</id><content type="html" xml:base="http://speciesfilegroup.org/announce/2022/02/08/describe-taxonworks.html"><![CDATA[<p>In the past month or two we’ve been working on addressing some long outstanding requests to document the data model behind TaxonWorks.  We’re happy to announce that work is “done”, and available <a href="https://docs.taxonworks.org/develop/Data/">at https://docs.taxonworks.org</a>.</p>
+
+<p>Some highlights include:</p>
+
+<ul>
+  <li>An overview discussion with background and a bigger picture perspective.</li>
+  <li>Table definitions and entity-relationship (ER) visualizations for all models.</li>
+  <li>Links between documentation types (e.g. clickable nodes), that connect resources making them easily navigable.</li>
+  <li>Uses code to generate table, ER diagrams, and links throughout by inspecting the application itself. This ensures that the documentation remains in-sync with code.</li>
+</ul>
+
+<p>We’ve also outlined the various audiences that might find this documentation useful, we hope you find yourself there.</p>
+
+<p><a href="https://github.com/SpeciesFileGroup/taxonworks_doc/issues">Feedback</a> is of course welcome. A reminder that there are weekly opportunities to talk about all things TaxonWorks, including a dedicated ‘Technical’ session that is a perfect opportunity to ask more about this new documentation. See our <a href="https://speciesfilegroup.org/events.html">events</a> page.</p>
+
+<p>Happy grokking!</p>]]></content><author><name>Matt Yoder</name></author><category term="announce" /><summary type="html"><![CDATA[In the past month or two we’ve been working on addressing some long outstanding requests to document the data model behind TaxonWorks. We’re happy to announce that work is “done”, and available at https://docs.taxonworks.org.]]></summary></entry><entry><title type="html">TaxonWorks Together 2021, it’s about community</title><link href="http://speciesfilegroup.org/event/2022/02/01/taxonworks-together-2022.html" rel="alternate" type="text/html" title="TaxonWorks Together 2021, it’s about community" /><published>2022-02-01T11:30:00-06:00</published><updated>2022-02-01T11:30:00-06:00</updated><id>http://speciesfilegroup.org/event/2022/02/01/taxonworks-together-2022</id><content type="html" xml:base="http://speciesfilegroup.org/event/2022/02/01/taxonworks-together-2022.html"><![CDATA[<table>
+  <tbody>
+    <tr>
+      <td>The theme of <em>building community</em> framed <a href="https://github.com/SpeciesFileGroup/taxonworks_together_2021">TaxonWorks Together 2022 (TWT)</a>. Two plenary sessions, User Perspectives on TaxonWorks, and Building a Community Around Your Taxonomic Needs, provided our contributors and invited speakers a public forum to share and discuss their TaxonWorks (TW) experiences. Over 150 people registered and we had participants from countries around the globe.  A common theme from users was the need for public facing pages for data in their TW databases. TaxonWorks software specifically for  this purpose (i.e. purposefully separate from the database software) is now in development with a multi-year set of milestones offering specific functions being released over the next 3+ years.  Please <a href="https://github.com/SpeciesFileGroup/page/issues/new?assignees=&amp;labels=enhancement&amp;template=PANEL.yml&amp;title=%5BPanel%5D%3A+">submit your ideas for the content and function</a> of these public pages!</td>
+      <td><img src="https://sfg.taxonworks.org/s/5f5h1r" alt="" align="right" /> <img src="https://sfg.taxonworks.org/s/wv3hyv" alt="" align="right" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="guests">Guests!</h3>
+
+<p>We opened our week with a series of user perspectives. Hear directly from Chris Dietrich, Lily Hart, Jim Woolley and John Heraty, Heidi Hopkins, Kojun Kanda, Michelle Kohler, and Maria Marta Cigliano about TW from their points-of-view. <a href="https://youtu.be/K4uFati6JZ4">Their talks are available at YouTube.</a></p>
+
+<p>Our plenary speaker, Beckett Sterner (Arizon State University, <a href="https://orcid.org/0000-0001-5219-7616">https://orcid.org/0000-0001-5219-7616</a>) presented: <a href="https://github.com/SpeciesFileGroup/taxonworks_together_2021/blob/main/slides/Sterner_twt2021_TaxonWorks2021.pdf">Building a Community Around Your Taxonomic Needs</a> which stimulated a great discussion around such topics as group data curation, data pooling strategies, and ideas about what makes a community long-lived. His session is <a href="https://youtu.be/hWPhto6Qv7E">available on the TaxonWorks' YouTube</a>. Insights from this session offer that inclusiveness, collective benefit, credit and attribution are all important variables for sustainable data portals. In our <em>user perspectives</em> session, contributors noted how much they appreciate the benefit of being able to work as a group using TW. Local to global, the Species File Group builds software, tools, and a commons that support a taxonomist’s individual and collaborative workflows to use and manage complex, detailed nomenclatural, taxonomic, and specimen-related data. All of us look forward to findings from Beckett’s recently awarded NSF grant: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2122818">Explaining Differential Success in Biodiversity Knowledge Commons</a>.</p>
+
+<h3 id="why-not-excel-or-reasons-for-using-taxonworks">Why not Excel, or, reasons for using TaxonWorks?</h3>
+
+<p>One of our participants asked “why TW and not Excel?” This, and various related discussions throughout the week raised a number of reasons as to why TaxonWorks might be useful (beyond just not being Excel). Discussion highlights ("the “learning curve” is worth it") included: :</p>
+
+<ul>
+  <li>Excel limits field length, is “two-dimensional” and <em>is not</em> a database while</li>
+  <li>TW offers handling complex data
+    <ul>
+      <li>Nomenclature, distributions, literature, and biological associations</li>
+      <li>Automatic generation of taxonomic keys and taxon pages</li>
+      <li>Built-in hard and soft validation for data fitness</li>
+    </ul>
+  </li>
+  <li>TW offers collaboration, working with many folks together in the same database
+    <ul>
+      <li>5 natural history collections currently manage their data in TW
+        <ul>
+          <li>DwC Archive import and export is quickly making TW a compelling digitization solution</li>
+          <li>People with loans can digitize and return data for integration or receive digitized data with specimens</li>
+        </ul>
+      </li>
+      <li>Remote team-work during the pandemic</li>
+      <li>High-school students entering data</li>
+      <li>TW allows for the distribution of tasks, projects that once depended on one person, now can be done by many. The Universal Chalcid Database curators manage data from over 58K sources.</li>
+      <li>Private community curation has positive aspects</li>
+      <li>Participants noted the sharing of some data across TW projects, for example sources (i.e. literature), people data, and some geo data.</li>
+    </ul>
+  </li>
+  <li>TW development team
+    <ul>
+      <li>Responsive and data standards aware</li>
+      <li>Long-term funding support for TW</li>
+      <li>Listens to the needs of the community but also</li>
+      <li>Educates users if there’s a better practice</li>
+      <li>Willingness to customize where feasible</li>
+      <li>Individuals can to add custom fields (more suitable and less lossy than “notes”)</li>
+    </ul>
+  </li>
+  <li>TW software
+    <ul>
+      <li>A tool that is open and not proprietary</li>
+      <li>Makes data sharing easier and more sustainable in the short and long term</li>
+      <li>Allows anyone worldwide to contribute to the features and functions of the software and API
+|</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="darwin-core">Darwin Core</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Another exciting activity during the week offered us a chance to show our newly released Darwin Core Importer. With this tool, you can use your DwC-A file (or just the occurrence.txt file) to upload data into TW. Features and functions are being added and input for and testing of this new function welcome! During our BBQ, all were introduced to GitHub, and we learned a few new tricks and some software development etiquette about emojis (e.g. use them to provide feedback on comments). In our digitization session, Tommy McElrath showed us the power of several key features such as the Comprehensive Digitization (all relevant fields in one screen) and the TW “grid digitizer” (at right). And just-in-time for TWT Tommy created <a href="https://www.youtube.com/playlist?list=PLPSu6w4rwUI4FZwZ5lw43XbBkiD4Iuy91">a new video series about Digitization Using TW</a>.</td>
+      <td><img src="https://sfg.taxonworks.org/s/7967z6" alt="" align="right" height="300px" /></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="nomenclature">Nomenclature</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td>TaxonWorks manages nomenclature distinctly separate from the descriptions of those things being named. In the Nomenclature session moderated by Dmitry Dmitriev, several speakers talked about their experiences with TW to manage large nomenclatural resources, for example, the LepIndex and Universal Chalcidoidea Database (UCD). Jim Wooley walked us through how the UCD group collectively manages data from 58K sources (aka publications) in TaxonWorks. Donald Hobern noted that LepIndex needs structured sustained community curation and some enhanced TW features to make it easier to improve the LepIndex dataset in subsets (e.g. by family). Several people note that often multiple nomenclatural lists may exist and would like to see more tools that make it possible to share more of the common data where desired / feasible / and logical to improve taxonomic workflows.</td>
+      <td><img src="https://sfg.taxonworks.org/s/wnud8p" alt="" align="right" height="300px" /></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="matrices">Matrices</h3>
+<p>During the session on Matrices we heard from Sergei Tarasov and Kojun Kanda. Sergei is working to integrate Phenoscript with TW. Phenoscript is the first programming language for describing species (see <a href="https://github.com/sergeitarasov/PhenoScript/wiki">https://github.com/sergeitarasov/PhenoScript/wiki</a>). In all collaboration, somehow you need to track progress, yes? Kojun cleverly recognized that the matrices software can be used to do this and showed us how.</p>
+
+<h3 id="technical">Technical</h3>
+
+<p>At the Technical session “It’s Developer Time”, programmers and users covered a wide range of topics. Live-coding in Ruby happened to fix and execute a script needed for querying the TW API. We heard about the User Interface (UI) and User Experience (UX) from users who would like some different options for roles and permissions as well as options to customize the UI including a customized workflow. Our Global Names developer, Dmitry Mozzherin heard that users would like to be able to compare (“do a diff”) across 2 or more taxonomic name checklists. He's built <a href="https://github.com/gnames/gndiff">gndiff</a> as a response. Another researcher uses the research-grade images coming from iNaturalist, and wants to pull them into TaxonWorks via the iNat API. And for those who want to jump in to help code the UI/UX of TW, developer José Luis Pereira produced a great video to get you started! See <a href="https://www.youtube.com/watch?v=IC5nGkMFJEI">Using VueJS with TaxonWorks</a>, part 1 on the TW YouTube.</p>
+
+<h3 id="connect-with-us">Connect with us</h3>
+<p>Throughout TWT we reiterated the ways to connect with us. As part of our commons, we’re connected 24/7/365 via GitHub and Gitter, and of course at our weekly sessions on Wednesdays. For 2022 we updated <a href="https://speciesfilegroup.org/events.html">our weekly meeting</a> topics to: Nomenclature, Digitization, Matrices/Observations, Technical, and Open (where any topic is welcome). Please join us! It’s easy (see information under <em>Current</em> on the <a href="https://speciesfilegroup.org/events.html">Events</a> page for details).</p>
+
+<p>To revisit, or in case you missed it, you’ll find the meeting materials linked on <a href="https://github.com/SpeciesFileGroup/taxonworks_together_2021">the event page</a> and some <a href="https://www.youtube.com/channel/UCKNr7QYwvVFcRfQAcMEAhLw">recordings on YouTube</a>.</p>
+
+<h3 id="coming-soon-on-propodeum">Coming soon on <em>Propodeum</em></h3>
+
+<p>We’ve had multiple requests (before and during TWT) for details of the underlying data models behind TaxonWorks. Great news! With a lot of hard work on the part of the TaxonWorks developers, these details are coming to light. You can get a sneak peak (though changes are certain) at <a href="https://docs.taxonworks.org">docs.taxonworks.org</a>.</p>
+
+<h3 id="links">Links</h3>
+
+<ul>
+  <li><a href="https://github.com/SpeciesFileGroup/taxonworks_together_2021">TaxonWorks Together 2021 event page</a></li>
+  <li><a href="https://www.youtube.com/channel/UCKNr7QYwvVFcRfQAcMEAhLw">Recordings on TaxonWorks YouTube</a></li>
+  <li><a href="https://github.com/SpeciesFileGroup/taxonworks_together_2022">Add your ideas for TWT 2022</a></li>
+  <li><a href="https://docs.taxonworks.org/">https://docs.taxonworks.org</a></li>
+</ul>]]></content><author><name>Deborah Paul, Matt Yoder</name></author><category term="event" /><summary type="html"><![CDATA[The theme of building community framed TaxonWorks Together 2022 (TWT). Two plenary sessions, User Perspectives on TaxonWorks, and Building a Community Around Your Taxonomic Needs, provided our contributors and invited speakers a public forum to share and discuss their TaxonWorks (TW) experiences. Over 150 people registered and we had participants from countries around the globe. A common theme from users was the need for public facing pages for data in their TW databases. TaxonWorks software specifically for this purpose (i.e. purposefully separate from the database software) is now in development with a multi-year set of milestones offering specific functions being released over the next 3+ years. Please submit your ideas for the content and function of these public pages!]]></summary></entry><entry><title type="html">Welcome to Propodeum, a blog from the Species File Group and collaborators</title><link href="http://speciesfilegroup.org/announce/2022/01/20/welcome-to-propodeum.html" rel="alternate" type="text/html" title="Welcome to Propodeum, a blog from the Species File Group and collaborators" /><published>2022-01-20T09:30:00-06:00</published><updated>2022-01-20T09:30:00-06:00</updated><id>http://speciesfilegroup.org/announce/2022/01/20/welcome-to-propodeum</id><content type="html" xml:base="http://speciesfilegroup.org/announce/2022/01/20/welcome-to-propodeum.html"><![CDATA[<p>We’ve long discussed a place to post writings from the Species File Group (SFG), here it is. We realize it takes time to make this type of thing work, we’ll take it slow, and see how it goes. We’ll announce new posts on Twitter at <a href="https://twitter.com/sppfilegroup">@sppfilegroup</a>.</p>
+
+<p>The scope might include (but is not limited to):
+* Informal musing on the nature of biodiveristy informatics
+* Guest posts on the same 
+* Links (ping us!) to blog or podcast postings you/we think others will find interesting
+* Updates from <a href="/events.html">events</a> such as <code class="language-plaintext highlighter-rouge">TaxonWorks Together</code>
+* Occasional news on SFG projects</p>
+
+<p>You might be asking, “why <em>propodeum</em>”!? The term references a bit of anatomy found in some groups of Hymenopterans (the bees, wasps and ants). It turns out that as historically used the term is a homonym, that is, it is used to refer to a structure that from the outside looks similar across species, but upon closer examination, is not. The spirit of this blog is to emulate the process that leads to the (ongoing) understanding of the nature of the “propodeum”, to write about things in an effort to tease out an understanding of their nature and diversity. Furthermore it sounds like “pro” (expressing in a positive manner) “podium” (stage), a nice place to speak from, yes, we’re grasping. It also sounds kind of cool.</p>]]></content><author><name>Matt Yoder, Deborah Paul</name></author><category term="announce" /><summary type="html"><![CDATA[We’ve long discussed a place to post writings from the Species File Group (SFG), here it is. We realize it takes time to make this type of thing work, we’ll take it slow, and see how it goes. We’ll announce new posts on Twitter at @sppfilegroup.]]></summary></entry></feed>
