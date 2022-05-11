@@ -2,11 +2,11 @@
 layout: post
 title: Expanding Our Reach: the Species File Group (aka SFG) Goes to SPNHC 2022
 author: Deborah Paul, Matt Yoder
-date: 2022-05-09
+date: 2022-05-11
 categories: event
 ---
 
-Creating virtual and hybrid meetings offer all of us, including the Species File Group opportunities for extending our communities -- local to global. The Society for the Preservation of Natural History Collections [SPNHC](www.spnhc.org) offers a hybrid joint [2022 Conference](https://spnhc2022.com/) this year with International Partner – [BHL](https://www.biodiversitylibrary.org/) (Biodiversity Heritage Library) and National Partner – [NatSCA](https://natsca.org/) (Natural Sciences Collections Association based in the UK).
+<img src="https://sfg.taxonworks.org/s/mv04la" align="right" width="300"/> Creating virtual and hybrid meetings offer all of us, including the Species File Group opportunities for extending our communities -- local to global. The Society for the Preservation of Natural History Collections [SPNHC](www.spnhc.org) offers a hybrid joint [2022 Conference](https://spnhc2022.com/) this year with International Partner – [BHL](https://www.biodiversitylibrary.org/) (Biodiversity Heritage Library) and National Partner – [NatSCA](https://natsca.org/) (Natural Sciences Collections Association based in the UK).
 
 Staff from the SFG, INHS, and PRI shepherd the development and use of collections both physical and digital. The annual SPNHC conference provides a venue to highlight the data, the specimens, and all that we do. Note the fitting conference theme:
 
