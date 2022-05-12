@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expanding Our Reach: the Species File Group (aka SFG) Goes to SPNHC 2022
+title: "Expanding Our Reach: the Species File Group (aka SFG) Goes to SPNHC 2022"
 author: Deborah Paul, Matt Yoder
 date: 2022-05-11
 categories: event
