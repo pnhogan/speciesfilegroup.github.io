@@ -118,7 +118,7 @@ title: Events
       
       <tr>
         <td>5th</td>
-        <td>No Meetings on 5th Wednesdays</td>
+        <td><div class="py-2">No Meetings on 5th Wednesdays</div></td>
         <td></td>
       </tr>
 
@@ -342,11 +342,12 @@ const [startLateTime, endLateTime] = getUTCDatesInLocal(lateDateElement.getAttri
 const eventsElement = document.querySelectorAll('tbody.events tr').forEach(element => {
   const nextDateElement = element.querySelector('[data-every-week]')
   const countdownElement = element.querySelector('[data-countdown]')
+
+  if (!countdownElement || !nextDateElement) return
+
   const week = nextDateElement.getAttribute('data-every-week')
   const day = days.findIndex(item => item === nextDateElement.getAttribute('data-day'))
-
   const isOpen = !!element.querySelector('[data-open]')
-
   
   function updateElements () {
     let newDate = getNextDateFromDayAndWeek(Number(day), Number(week))
