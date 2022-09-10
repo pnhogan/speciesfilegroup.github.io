@@ -35,6 +35,7 @@ This document pertains only to the instance(s) the **SFG** maintain(s), presentl
   * Encourage **scientists** to generate a complete dump of their data in "raw" SQL format (task currently available)
   * Permanently archive and make accessible via publicly available resources (e.g. GitHub, Zenodo, etc.) all supporting data that is cross-project in SQL and CSV formats
   * To the extent possible document how **scientists** can migrate to another service hosting TaxonWorks
+
 ## Scientists using TaxonWorks
 * If you use TaxonWorks, then regardless of your role, and how you see yourself, the **SFG** considers you a **scientist**. You are helping to do science.
 * **Scientists** understand that regardless of the perceived permanency of resources, things may change.  
