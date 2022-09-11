@@ -5,14 +5,27 @@ title: Site map
 ## Hosted or managed websites
 
 ### Current
+
+#### This site
+* [About SFG](https://speciesfilegroup.org/about.html)
+* [Events](https://speciesfilegroup.org/events.html)
+* [SpeciesFileGroup.org](https://speciesfilegroup.org/)
+
 #### Global Names
-* [Global Names](http://globalnames.org) 
+* [Global Names](http://globalnames.org)
 
 #### TaxonWorks
 * [TaxonWorks](https://taxonworks.org)
-* [TaxonWorks Docs](https://docs.taxonworks.org)
+* [docs.taxonworks.org](https://docs.taxonworks.org)
 * [TaxonWorks API](https://api.taxonworks.org)
 * [stats.taxonworks.org](https://stats.taxonworks.org)
+* [TaxonWorks Youtube](https://www.youtube.com/channel/UCKNr7QYwvVFcRfQAcMEAhLw)
+
+#### TaxonPages
+* [TaxonPages](https://github.com/SpeciesFileGroup/taxonpages/)
+
+#### "distinguish"
+* ["distinguish" (public multi-entry keys)](https://github.com/SpeciesFileGroup/distinguish/)
 
 #### Species Files
 * [Aphid](http://aphid.speciesfile.org) 
@@ -34,14 +47,17 @@ title: Site map
 * [Parasitoids of Fruit-Infesting Tephritidae](http://paroffit.org)
 * [TenebrioniDBase](http://tenebrionidbase.org) 
 * [The Diapriidae](http://diapriid.org)
-* [Universal Chalcidoidea Database](https://github.com/chalcid/jncdb)
 * [Treehoppers - Aetalionidae, Melizoderidae, and Membracidae (Hemiptera)](http://treehoppers.insectmuseum.org/) 
+* [Universal Chalcidoidea Database](https://github.com/chalcid/jncdb)
 
 #### Repositories
-* [Species File Group on Github](https://github.com/SpeciesFileGroup)
 * [Global Names on Github](https://github.com/gnames/)
+* [Species File Group on Github](https://github.com/SpeciesFileGroup)
 
 ### Archived  
-
 * [Species File Group Wiki](http://help.speciesfile.org)
 * [mx wiki](http://mx.phenomix.org)
+
+## Species File Group (organization) context
+* [Illinois Natural History Survey (INHS)](https://inhs.illinois.edu/)
+* [Prairie Research Institute (PRI)](https://prairie.illinois.edu/)
