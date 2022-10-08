@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://speciesfilegroup.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  mjy 
+github_username: mjy 
 
 # Build settings
 
@@ -41,12 +41,12 @@ pagination:
   enabled: true
   debug: true
   collection: 'posts'
-  per_page: 4
+  per_page: 3
   permalink: '/blog/:num/'
   indexpage: 'blog'
+  sort_reverse: true
 
 timezone: America/Chicago
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
