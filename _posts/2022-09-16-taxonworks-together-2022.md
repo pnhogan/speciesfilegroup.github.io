@@ -2,12 +2,15 @@
 layout: post
 title: Appreciating TaxonWorks Together 2022
 author: Deborah Paul, Matt Yoder
-date: 2022-09-16
+date: 2022-10-07
 categories: event
 ---
+
 <img src="https://user-images.githubusercontent.com/2990155/191803489-b9a9c76e-c471-41e2-b734-40996f86ca0a.png" alt="twt2022 logo" align="right" height="150"/>139 people joined our [3rd TaxonWorks Together Event](https://github.com/SpeciesFileGroup/taxonworks_together_2022). Part conference, part community roundtable, part choose-your-own-adventure unconference, for three days we explored, shared, and learned about TaxonWorks (TW) and from each other as collaborators, all working to make it possible to _describe life._
 
-To delve deeper into what topics we covered, please [peruse the agenda](https://github.com/SpeciesFileGroup/taxonworks_together_2022). A huge thank you! to all involved in planning, speaking, and engaging -- in all the activities. And of course, [join us on Wednesdays](https://speciesfilegroup.org/events.html), where all topics are welcome.
+To delve deeper into what topics we covered, please [peruse the agenda](https://github.com/SpeciesFileGroup/taxonworks_together_2022). Links to meeting minutes are included there. New this year, we've uploaded a good portion of the content on to [YouTube](https://www.youtube.com/playlist?list=PLPSu6w4rwUI64wbHDzUUT2ZRIImMC8Yns)!  
+
+A huge thank you! to all involved in planning, speaking, and engaging -- in all the activities. And of course, [join us on Wednesdays](https://speciesfilegroup.org/events.html) with your followup-up questions, all topics are welcome. 
 
 **Getting started.**
 
@@ -20,22 +23,22 @@ Embodied in the philosophy and vision of the Species File Group, and evidenced i
 **The Big Picture. Day One.**  
 
 <img src="https://user-images.githubusercontent.com/2990155/191786645-e57abcd5-e174-4ae7-90f9-9da49eb8c938.png" align="right" height="125" />
-We started with an Introduction and State of All Things SFG: highlights of 2021+. A great place to start for experienced users and our new folks. From there, we experienced a very quick (fun!) tour of just what’s inside TaxonWorks, see for yourself with Quick hits. A blitz of features new and old, including those you might have missed. With all of us now up-to-date, we enjoyed our TaxonWorks Community Speaks session where various community members share their individual/community use cases, their progress, their dreams for TW. With their presentations, you can listen-in too or review their slides. Thanks very much to
+We started with an Introduction and State of All Things SFG: highlights of 2021+ ([Youtube](https://www.youtube.com/watch?v=cESEbYyixrw)). A great place to start for experienced users and our new folks. From there, we experienced a very quick (fun!) tour of just what’s inside TaxonWorks, see for yourself with the [Quick hits video](https://www.youtube.com/watch?v=Of0U9zDUDFA&list=PLPSu6w4rwUI64wbHDzUUT2ZRIImMC8Yns&index=2). A blitz of features new and old, including those you might have missed. With all of us now up-to-date, we enjoyed our TaxonWorks Community Speaks session where various community members share their individual/community use cases, their progress, their dreams for TW. With their presentations, you can listen-in too or review their slides. Thanks very much to:
 
-- Jim Woolley - representing the Universal Chalcidoidea Database
-- Davide Dal Pos - wasps (specifically, Ichneumoninae)
-- Emily Struckhoff - of ticks and interactive keys
-- Brian Fisher - AntWeb
-- Belén Cabrera - Orthoptera Species File
-- Donald Hobern - The Global Lep Index
+* Jim Woolley - representing the Universal Chalcidoidea Database
+* Davide Dal Pos - wasps (specifically, Ichneumoninae)
+* Emily Struckhoff - of ticks and interactive keys
+* Brian Fisher - AntWeb
+* Belén Cabrera - Orthoptera Species File
+* Donald Hobern - The Global Lep Index
 
 **The TaxonWorks Ecosystem. Day Two.**
 
 For a community gathering around a software suite to thrive, they need a system indexed for searching documentation, in which they can both contribute and edit. Framing documentation as a collaborative, we selected software that makes [docs.taxonworks.org](https://docs.taxonworks.org/) possible. It's a work-in-progress now developed to the point the whole community (anyone) can add / edit / explore /search / link and we’ve had our first community-committed changes made at TWT2022 just after our quick tour. 
 
-For the data and our community to thrive and grow, the information in the database (and related objects like images) need to get out of TaxonWorks. Insect Collections Manager, Tommy McElrath took us on a journey from a TW Collection Object, to getting over 1M records from INHS to GBIF to highlight the local to global process of digitization. 
+For the data and our community to thrive and grow, the information in the database (and related objects like images) need to get out of TaxonWorks. Insect Collections Manager, Tommy McElrath took us on a journey from a TW Collection Object, to getting over 1M records from INHS to GBIF to highlight the local to global process of digitization ([Youtube](https://www.youtube.com/watch?v=FaykRv8rMBg)). 
 
-Next we explored "Spinoffs", that is, tools emerging out of the Species File Group connected to but distinct from TaxonWorks itself. In a very exciting moment, we saw the demonstration (and later the same afternoon, use) of our TaxonPages software. What does it do? It provides you with a way to create, customize, and extend your own “Pages” for public view, sharing the data stored inside your TW project database. We discovered we can make public-facing interactive Keys in TW (generated almost magically!) from TW Matrices. We learned it is now possible to generate Taxonomic Catalogs for your TW captured data, and researcher Kojun Kanda shared how he has learned to write / edit existing API scripts that support him getting the data he needs -- in the format he needs it in -- from his own instance of TW.
+Next we explored "Spinoffs", that is, tools emerging out of the Species File Group connected to but distinct from TaxonWorks itself. In a very exciting moment, we saw the demonstration (and later the same afternoon, use) of our [TaxonPages](https://github.com/speciesFileGroup/taxonpages) software. What does it do? It provides you with a way to create, customize, and extend your own “Pages” for public view, sharing the data stored inside your TW project database. We discovered we can make public-facing [interactive Keys](https://github.com/speciesFileGroup/distinguish) in TW (generated almost magically!) from TW Matrices. We learned it is now possible to generate Taxonomic Catalogs for your TW captured data, and researcher Kojun Kanda shared how he has learned to write / edit existing [API scripts](https://github.com/SpeciesFileGroup/taxonworks_api_scripts) that support him getting the data he needs -- in the format he needs it in -- from his own instance of TW.
 
 <img src="https://user-images.githubusercontent.com/2990155/191793593-280aa593-5e3f-4854-b232-80d5f652692b.png" alt="poll about writing code" align="right" height="125"/> <img src="https://user-images.githubusercontent.com/2990155/191794499-bed359de-5161-42da-bf32-8db9936fc574.png" alt="n8n software screenshot" align="right" height="125"/>  If you say, “I don’t know how to code”, we learned about “no code” / “low code” tools, specifically [n8n](https://n8n.io/). Using this tool, SFG software developer, Geoff Ower shared “Linking it all: A practical exploration of linking Biodiversity Informatics APIs using n8n.” At the SFG we are very excited to note Geoff also submitted this work for the [GBIF Ebbe Nielsen Prize 2022](https://www.gbif.org/news/77jGLQMqzZtjQi10AxAgrY/2022-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity). (Oh my goodness Debbie, What’s an API? That’s Application Programming Interface). Notice how our poll shows why tools like these are quite important.
 
@@ -43,7 +46,7 @@ Next we explored "Spinoffs", that is, tools emerging out of the Species File Gro
 
 **Community curation, Growing TaxonWorks. Day 3.**
 
-Curious about future TW plans? We started our third day with an overview from Matt about “What's Next for TaxonWorks in 2023+”. 		
+Curious about future TW plans? We started our third day with an overview from Matt about “What's Next for TaxonWorks in 2023+”.  This transitioned into an open session where we collaboratively worked on a prioritization list. 		
 
 Next, what does a community do to move from one person gathering all related nomenclature and related publications for over 20 years to a community-based sustainable model designed to share expertise and tacit knowledge? Here we learned from the folks collaboratively curating the Universal Chalcidoidea Database (UCD@TW). They shared their experience using the “barbeque” (BBQ) strategy and TW to work on-a-regular-basis both “alone” and “together” to speed up their community collective efforts to catch up (and then keep up) with databasing relevant chalcid nomenclatural data as they prepare for publication. In the recording and through the slides, find out “What’s a BBQ anyway and how is this working for the UCD?”
 
@@ -76,4 +79,4 @@ The TWT2022 events and conversations give us a lot of material to review to help
 - encourage people to contribute to the documentation when asked a question, rather than (or in addition to) sending a 1:1 email
 
 We welcome all of you to explore and join our TaxonWorks community and please join us next year for TWT2023. Please see the [events page](https://speciesfilegroup.org/events.html) to find out how.
-* ...
+
