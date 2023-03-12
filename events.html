@@ -215,7 +215,7 @@ All these <a href"https://en.wikipedia.org/wiki/Unconference">**unconference**</
       date.getDate(),
       (
         isDST(date) 
-          ? String(Number(hours) + 1)
+          ? String(Number(hours) - 1)
           : hours
       ),
       minutes || 0,
