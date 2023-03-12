@@ -213,12 +213,23 @@ All these <a href"https://en.wikipedia.org/wiki/Unconference">**unconference**</
       date.getFullYear(),
       date.getMonth(),
       date.getDate(),
-      hours,
+      (
+        isDST(date) 
+          ? String(Number(hours) + 1)
+          : hours
+      ),
       minutes || 0,
       seconds || 0)
     );
   
     return utcTime.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
+  }
+
+  function isDST(currentDate) {
+    const dstBegins = new Date(getNextDateFromDayAndWeek(0, 1, new Date(currentDate.getFullYear(), 2, 1)))
+    const dstEnds = new Date(getNextDateFromDayAndWeek(0, 0, new Date(currentDate.getFullYear(), 10, 1)))
+
+    return dstBegins <= currentDate && dstEnds >= currentDate
   }
 
   function getUTCDatesInLocal (dates) {
