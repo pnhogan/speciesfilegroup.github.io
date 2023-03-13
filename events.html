@@ -129,7 +129,7 @@ All these <a href"https://en.wikipedia.org/wiki/Unconference">**unconference**</
   <h3> Nomenclature </h3>
   <ul>
     <li>What: TaxonWorks excels at digitizing nomenclature and its metadata. The agenda is set by users with specific questions and use cases. In addition we highlight new functionality related to digitization of nomenclature. Sessions are  sometimes class-like for part of the time. Downstream sessions are planned with collaborators according to their needs and the general discussion that occurs in these meetings. </li>
-    <li>When: <b>1st Wednesdays, 10:30 CST (16:30 UTC), <span data-utc-to-local="16:30, 17:30"></span></b></li>
+    <li>When: <b>1st Wednesdays, 10:30 CST (<span data-utc="16:30"></span> UTC), <span data-utc-to-local="16:30, 17:30"></span></b></li>
     <li>Where: Zoom. </li>
     <li>Who: Open to anyone.</li>
     <li><a href="https://docs.google.com/document/d/1rvJ4ChR6VOFZlQPzPppZ3Y2MpwR6RqfvF00-HwyaU8U/edit?usp=sharing">Nomenclature Notes</a></li>
@@ -138,7 +138,7 @@ All these <a href"https://en.wikipedia.org/wiki/Unconference">**unconference**</
   <h3> Digitization </h3>
   <ul>
     <li>What: Help grow a community of digitization expertise around TaxonWorks. A 1-2 hr monthly open question and answer session with a focus on natural history specimen digitization using TaxonWorks. The agenda is set by those with specific questions. Updates to TaxonWorks are briefly covered. Design and discussion of new functionality frequently happens. </li>
-    <li>When: <b>2nd Wednesdays, 10:30 CST (16:30 UTC), <span data-utc-to-local="16:30, 17:30"></span></b></li>
+    <li>When: <b>2nd Wednesdays, 10:30 CST (<span data-utc="16:30"></span> UTC), <span data-utc-to-local="16:30, 17:30"></span></b></li>
     <li>Where: Zoom.  </li>
     <li>Who: Open to anyone. </li>
     <li><a href="https://docs.google.com/document/d/1n8VcRvaY8ViT8MCWfvciiGjo7BEYR6wpTk-NoctDMqM/edit?usp=sharing">Digitization Notes</a></li>
@@ -147,7 +147,7 @@ All these <a href"https://en.wikipedia.org/wiki/Unconference">**unconference**</
   <h3> Matrices/Observations </h3>
   <ul>
     <li>What: TaxonWorks supports building matrices. Join us in this 1-2 hr monthly open session focusing on building and using matrices and observations tools in TaxonWorks. Your questions set the agenda. Design and discussion of new functionality frequently happens.</li>
-    <li>When: <b>3rd Wednesdays, 10:30 CST (16:30 UTC), <span data-utc-to-local="16:30, 17:30"></span></b></li>
+    <li>When: <b>3rd Wednesdays, 10:30 CST (<span data-utc="16:30"></span> UTC), <span data-utc-to-local="16:30, 17:30"></span></b></li>
     <li>Where: Zoom.  </li>
     <li>Who: Open to anyone. </li>
     <li><a href="https://docs.google.com/document/d/1FodgK0UQ9ADmC0Ac2YqpbWeOG2o-K8Ccdy2PmJyJeyI/edit?usp=sharing">Matrices Notes</a></li>
@@ -156,7 +156,7 @@ All these <a href"https://en.wikipedia.org/wiki/Unconference">**unconference**</
   <h3> Technical </h3>
   <ul>
     <li>What: You are encouraged to contribute to the technical side of TaxonWorks any time. But, please do join us for a 1-2 hr monthly open session concentrating on software and services development. The agenda is set by you. Design and discussion of new functionality frequently happens. </li>
-    <li>When: <b>4th Wednesdays, 10:30 CST (16:30 UTC), <span data-utc-to-local="16:30, 17:30"></span></b></li>
+    <li>When: <b>4th Wednesdays, 10:30 CST (<span data-utc="16:30"></span> UTC), <span data-utc-to-local="16:30, 17:30"></span></b></li>
     <li>Where: Zoom.  </li>
     <li>Who: Open to anyone. </li>
     <li><a href="https://docs.google.com/document/d/1_pS0YlNfl8Q3RFvU8FOadZrD1IcGypBoRCunU3rsPtQ/edit?usp=sharing">Technical Notes</a></li>
@@ -165,7 +165,7 @@ All these <a href"https://en.wikipedia.org/wiki/Unconference">**unconference**</
   <h3> Open </h3>
   <ul>
     <li>What: Help build the TaxonWorks Community. In this open session, all topics welcome. A 1-2 hr monthly open session. </li>
-    <li>When: <b>1st and 3rd Wednesdays, 13:30 CST (19:30 UTC), <span data-utc-to-local="19:30, 20:30"></span></b></li>
+    <li>When: <b>1st and 3rd Wednesdays, 13:30 CST (<span data-utc="19:30"></span> UTC), <span data-utc-to-local="19:30, 20:30"></span></b></li>
     <li>Where: Zoom.  </li>
     <li>Who: Open to anyone. </li>
     <li><a href="https://docs.google.com/document/d/1Wq3-2x6Y3hLy9DoxLoc86vj68FI_nlb8mVTKr_KgbvY/edit?usp=sharing">Open Notes</a></li>
@@ -205,19 +205,28 @@ All these <a href"https://en.wikipedia.org/wiki/Unconference">**unconference**</
     'saturday'
   ]
 
-  function convertUTCToLocal (time) {
+  function ajustUTCStringToDST(utcString) {
     const date = new Date();
-    const [hours, minutes, seconds] = time.split(':');
+    const [hours, minutes, seconds] = utcString.split(':');
+
+    return [
+      isDST(date) 
+        ? String(Number(hours) - 1)
+        : hours
+      ,
+      minutes,
+      seconds
+    ]
+  }
+
+  function convertUTCToLocal ([hours, minutes, seconds]) {
+    const date = new Date();
     const utcTime = new Date(
       Date.UTC(
       date.getFullYear(),
       date.getMonth(),
       date.getDate(),
-      (
-        isDST(date) 
-          ? String(Number(hours) - 1)
-          : hours
-      ),
+      hours,
       minutes || 0,
       seconds || 0)
     );
@@ -233,7 +242,9 @@ All these <a href"https://en.wikipedia.org/wiki/Unconference">**unconference**</
   }
 
   function getUTCDatesInLocal (dates) {
-    return dates.split(',').map(item => convertUTCToLocal(item.trim()))
+    return dates.split(',').map(item => 
+      convertUTCToLocal(ajustUTCStringToDST(item.trim()))
+    )
   }
 
   function parseUTCtoTimezone (data) {
@@ -337,6 +348,13 @@ function printCountDown(element, dateObject) {
 
 document.querySelectorAll('[data-utc-to-local]').forEach(element => {
   element.textContent = parseUTCtoTimezone(element.getAttribute('data-utc-to-local'));
+})
+
+document.querySelectorAll('[data-utc]').forEach(element => {
+  const time = element.getAttribute('data-utc')
+  const [hour, minutes] = ajustUTCStringToDST(time)
+
+  element.innerHTML = hour + ':' + minutes
 })
 
 function isTimeAlreadyPassed(startTime, endTime) {
