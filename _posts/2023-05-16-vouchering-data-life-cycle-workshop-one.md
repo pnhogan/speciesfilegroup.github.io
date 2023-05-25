@@ -13,6 +13,10 @@ _and workshop participants contributing to this blog post_
 - Ember Clodfelter, Entomology, Graduate Student
 - Phillip Hogan, Entomology, Graduate Student, [https://orcid.org/0000-0002-6546-272X](https://orcid.org/0000-0002-6546-272X)
 - Susan McIntyre, INHS, Assistant Research Scientist 
+- Kim Drager, INHS, Entomology Department
+- Juliana Soto Patiño, INHS Research Assistant, Graduate Student
+- Chris Stone, INHS, Entomology Department, Researcher
+- Lily Hart, INHS, Entomology, Species File Group
 
 # Why this workshop?
 With insights and skills gained as a participant at a 4-day [iDigBio Workshop: Field to Database](https://www.idigbio.org/wiki/index.php?title=Field_to_Database) in 2015, Tommy McElrath, INHS Insects Collection Manager and researcher, was inspired to create a similar event here (Paul et al 2015). 
