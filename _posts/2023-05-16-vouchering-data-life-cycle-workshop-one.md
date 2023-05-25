@@ -21,8 +21,8 @@ Fast forward to 2023, with [Species File Group](https://speciesfilegroup.org/) I
 ![Vouchering and Data Workshop One Cohort](https://sfg.taxonworks.org/s/9oa3ih)  
 Photo by Cathy Bialeschki, compliments of Sreelakshmi Suresh’s camera
 
-Our Vouchering and Data Workshop One Cohort- Front row: (left to right) Valeria Trivellone, Eric Schauber, Daniel Swanson, ... , ..., Lily Hart, Elizabeth Hrycyna, Alison Stodola, ..., Susan McIntyre
-Back row: Enrique Santoyo-Brito, ..., Mark Wetzel, the Bison, ..., Aidan Garrett, ..., Sreelakshmi Suresh, Deborah Paul, Jason Karakehian, Tommy McElrath, ...
+Our Vouchering and Data Workshop One Cohort - **Front row**: (left to right) Valeria Trivellone, Eric Schauber, Daniel Swanson, Virginia Roberts, Lauren Urie, Lily Hart, Elizabeth Hrycyna, Alison Stodola, Kim Drager, Susan McIntyre
+**Back row**: Enrique Santoyo-Brito, Dominic Evangelista, Mark Wetzel, the Bison, Chris Stone, Aidan Garrett, Ember Clodfelter, Sreelakshmi Suresh, Deborah Paul, Jason Karakehian, Tommy McElrath, Philip Hogan. (Not in picture: Juliana Soto)
 
 # Who participated? 
 Many folks from different departments, especially the UIUC Entomology Department and from the Illinois Natural History Survey across disciplines and career stages from student to retired. Folks who attended collect all sorts, including plants, fungi, insects, fish, annelids, ticks, mollusks, and more ... and willingly shared their expert insights with everyone. We were pleased to have Eric Schauber, Director of INHS, attend for part of the day to both listen and contribute his insights.
