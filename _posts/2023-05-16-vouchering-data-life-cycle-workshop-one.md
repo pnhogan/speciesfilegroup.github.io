@@ -16,7 +16,7 @@ _and workshop participants contributing to this blog post_
 
 # Why this workshop?
 With insights and skills gained as a participant at a 4-day [iDigBio Workshop: Field to Database](https://www.idigbio.org/wiki/index.php?title=Field_to_Database) in 2015, Tommy McElrath, INHS Insects Collection Manager and researcher, was inspired to create a similar event here (Paul et al 2015). 
-Fast forward to 2023, with [Species File Group](https://speciesfilegroup.org/) Informatics Liaison, Deborah Paul as a collaborator, we worked together to design a one-day version highlighting key topics of best (or at least better) practices for vouchering specimens and creating, stewarding, and using data.
+Fast forward to 2023, with [Species File Group](https://speciesfilegroup.org/) Informatics Liaison, Deborah Paul as a collaborator, we worked together to design a one-day version highlighting key topics of best (or at least better) practices for vouchering specimens and creating, stewarding, and using data. Additionally, we wanted to engage everyone in an informal needs assessement. We get to discover we have many similar knowledge / skills needs and think about how we can address these strategically as part of capacity development here at PRI and UIUC and with our colleagues and fellow students.
 
 ![Vouchering and Data Workshop One Cohort](https://sfg.taxonworks.org/s/9oa3ih)  
 Photo by Cathy Bialeschki, compliments of Sreelakshmi Suresh’s camera
@@ -37,14 +37,16 @@ You can see the broad topics we covered and even see the slides on [our workshop
 - Where do we get these skills and knowledge (i.e. capacity development) that we're discovering in this workshop?
 - What do we know presents challenges and that we need to watch out for when caring for specimens (and related data) to ensure they have a long(er) life? (flat, pinned, or wet!).
 
-<img src="https://sfg.taxonworks.org/s/q73ep6" width="250" title="Software we use" alt="Software we use">. <img src="https://sfg.taxonworks.org/s/uei6y7" width="250" title="Software / skills this group wants to learn" alt="Software / skills this group wants to learn">. <img src="https://sfg.taxonworks.org/s/ig1k5l" width="250" title="Challenging Data Tasks" alt="Challenging Data Tasks">  
-Photos by Sreelakshmi Suresh.
+<img src="https://sfg.taxonworks.org/s/1oj551" width="250" title="Software we use" alt="Software we use">. <img src="https://sfg.taxonworks.org/s/uei6y7" width="250" title="Software / skills this group wants to learn" alt="Software / skills this group wants to learn">. <img src="https://sfg.taxonworks.org/s/ig1k5l" width="250" title="Challenging Data Tasks" alt="Challenging Data Tasks">  
+Photos by Tommy McElrath and Sreelakshmi Suresh.
 
 # What did we learn?
 - In the first half of our day, we learned about better ways to collect data in the field, as well as best practices for vouchering, [data standards](https://tdwg.org), labeling, and preparing specimens. 
 - In the second half, over half of attendees were blown away by the usefulness and potential of [OpenRefine](https://openrefine.org/), a data cleaning and visualizing tool. 
 - Throughout the day, attendees and presenters alike presented their expertise about all topics covered, showing how much of this day was about sharing experience and knowledge.
-- Lots of attendees want to learn more about data manipulation tools, especially R, OpenRefine, versioning (e. g. using [GitHub](https://github.com/)), data standards, and relational databases. There was serious energy about doing another [Carpentries](https://carpentries.org/) workshop very soon! (Organizers note that UIUC is a Carpentries member and this gives our university some unique opportunities and a willing and pedagogically-trained group ready to help meet some of these skills / knowledge needs across all departments).
+- What might come next? What are our needs? Lots of attendees want to learn more about data manipulation tools, especially R, OpenRefine, versioning (e. g. using [GitHub](https://github.com/)), data standards, and relational databases. There was serious energy about doing another [Carpentries](https://carpentries.org/) workshop very soon! (Organizers note that UIUC is a Carpentries member and this gives our university some unique opportunities and a willing and pedagogically-trained group ready to help meet some of these skills / knowledge needs across all departments).
+
+<img src="https://sfg.taxonworks.org/s/vmdbvh" title="What Comes Next? What Do We Need?" width="300" alt="What Comes Next? What Do We Need at PRI?"> <img src="https://sfg.taxonworks.org/s/uwcoj8" title="What Does the Collection Manager, Ecologist, Researcher of the Future, Need?" width="300" alt="What Does the Collection Manager, Ecologist, Researcher of the Future, Need?">
 
 # From the participant’s point of view
 Want to know more about what you can expect? Presentations from Tommy and Debbie were interspersed with hands-on activities. If you check out our shared notes (see the [workshop repository](https://github.com/tmcelrath/UIUC-Vouchering-Workshop-2023) for links) you can also learn more. Next, we asked our workshop attendees to share with you what they found compelling / useful..
