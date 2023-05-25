@@ -1,7 +1,7 @@
 # Towards Long-lived Specimens, Data, and Increased Impact
 _insights from our first Vouchering and Digital Data Management Workshop_
 
-post by: Deborah Paul, INHS Species File Group Biodiversity Informatics Liaison, [https://orcid.org/0000-0003-2639-7520](https://orcid.org/0000-0003-2639-7520), dlpaul AT illinois DOT edu; Tommy McElrath, INHS Insect Collection, Researcher, Collection Manager, [https://orcid.org/0000-0003-0390-4227](https://orcid.org/0000-0003-0390-4227), tcm AT illinois DOT edu
+post jointly by: Tommy McElrath, INHS Insect Collection, Researcher, Collection Manager, [https://orcid.org/0000-0003-0390-4227](https://orcid.org/0000-0003-0390-4227), tcm AT illinois DOT edu; Deborah Paul, INHS Species File Group Biodiversity Informatics Liaison, [https://orcid.org/0000-0003-2639-7520](https://orcid.org/0000-0003-2639-7520), dlpaul AT illinois DOT edu
 
 _and workshop participants contributing to this blog post_
 - Enrique Santoyo-Brito, INHS NIZ Collections, Fluid Collections Manager, [https://orcid.org/0000-0003-3997-3232](https://orcid.org/0000-0003-3997-3232)
