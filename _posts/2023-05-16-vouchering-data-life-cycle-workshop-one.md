@@ -16,10 +16,10 @@ _and workshop participants contributing to this blog post_
 
 # Why this workshop?
 With insights and skills gained as a participant at a 4-day [iDigBio Workshop: Field to Database](https://www.idigbio.org/wiki/index.php?title=Field_to_Database) in 2015, Tommy McElrath, INHS Insects Collection Manager and researcher, was inspired to create a similar event here (Paul et al 2015). 
-Fast forward to 2023, with [Species File Group](https://speciesfilegroup.org/) Informatics Liaison, Deborah Paul as a collaborator, we worked together to design a one-day version highlighting key topics of best (or at least better) practices for vouchering specimens and creating, stewarding, and using data. Additionally, we wanted to engage everyone in an informal needs assessement. We get to discover we have many similar knowledge / skills needs and think about how we can address these strategically as part of capacity development here at PRI and UIUC and with our colleagues and fellow students.
+Fast forward to 2023, with [Species File Group](https://speciesfilegroup.org/) Informatics Liaison, Deborah Paul as a collaborator, we worked together to design a one-day version highlighting key topics of best (or at least better) practices for vouchering specimens and creating, stewarding, and using data. Additionally, we wanted to engage everyone in an informal needs assessement. We get to discover we have many similar knowledge / skills needs and think about how we can address these strategically as part of capacity development here at PRI and UIUC and with our students, colleagues, and administrators.
 
 ![Vouchering and Data Workshop One Cohort](https://sfg.taxonworks.org/s/9oa3ih)  
-Photo by Cathy Bialeschki, compliments of Sreelakshmi Suresh’s camera
+Photo by Cathy Bialeschki, compliments of Sreelakshmi Suresh’s camera. 16 May 2023
 
 Our Vouchering and Data Workshop One Cohort - **Front row**: (left to right) Valeria Trivellone, Eric Schauber, Daniel Swanson, Virginia Roberts, Lauren Urie, Lily Hart, Elizabeth Hrycyna, Alison Stodola, Kim Drager, Susan McIntyre
 **Back row**: Enrique Santoyo-Brito, Dominic Evangelista, Mark Wetzel, the Bison, Chris Stone, Aidan Garrett, Ember Clodfelter, Sreelakshmi Suresh, Deborah Paul, Jason Karakehian, Tommy McElrath, Philip Hogan. (Not in picture: Juliana Soto)
