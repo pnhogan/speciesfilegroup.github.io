@@ -72,5 +72,5 @@ Paul D (formerly at iDigBio, now INHS), Seltmann K (TTD-TCN, AMNH), Michonneau F
 
 # Acknowledgements
 - Shout out to all who helped with collaborative note taking, especially Sreelakshmi Suresh.
-- A tasty thanks to INHS's own Cathy Bialeschki and Eric Shauber. With their input, participation, and some funding, not only did we eat well, our event space, logistics, and over impact benefitted from their expert help.
+- A tasty thanks to INHS's own Cathy Bialeschki and Eric Shauber. With their input, participation, and some funding, not only did we eat well, our event space, logistics, and overall impact benefitted from their expert help.
 
