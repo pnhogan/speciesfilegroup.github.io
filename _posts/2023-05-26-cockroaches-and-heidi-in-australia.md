@@ -11,7 +11,8 @@ Perth, Adelaide, Melbourne and Darwin, Australia. There, she photographed all av
 
 <img src="https://sfg.taxonworks.org/s/eyxm95" title="Polyzosteria fulgens" alt="Polyzosteria fulgens" width="300">  
 
-_Polyzosteria fulgens_ Mackerras 1965
+_Polyzosteria fulgens_ Mackerras 1965  
+Copyright holder: Western Australia Museum. Photo credit: Heidi Hopkins
 
 She also searched both the wet and dry collections of these museums for unidentified  specimens of 
 [Corydiidae](https://bie.ala.org.au/species/https://biodiversity.org.au/afd/taxa/ad049019-da30-43fc-9279-2e60447fc735), 
@@ -20,7 +21,6 @@ The Australian Corydiidae have not been revised since 1968. This trip was comple
 
 <img src="https://sfg.taxonworks.org/s/imztvh" title="Tivia australica" alt="Tivia australica" width="300">
 
-_Tivia australica_ Princis, 1954
+_Tivia australica_ Princis, 1954  
+Copyright holder: Illinois Natural History Survey. Photo credit: Heidi Hopkins
 
----
-photographs by Heidi Hopkins, copyright CC-BY
