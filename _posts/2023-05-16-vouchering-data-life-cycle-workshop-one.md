@@ -1,4 +1,10 @@
-# Towards Long-lived Specimens, Data, and Increased Impact
+---
+layout: post
+title: Towards Long-lived Specimens, Data, and Increased Impact
+author: Tommy McElrath and Deborah Paul
+date: 2023-05-26 14:00:00 -0500
+categories: announce 
+---
 _insights from our first Vouchering and Digital Data Management Workshop_
 
 post jointly by: Tommy McElrath, INHS Insect Collection, Researcher, Collection Manager, [https://orcid.org/0000-0003-0390-4227](https://orcid.org/0000-0003-0390-4227), tcm AT illinois DOT edu; Deborah Paul, INHS Species File Group Biodiversity Informatics Liaison, [https://orcid.org/0000-0003-2639-7520](https://orcid.org/0000-0003-2639-7520), dlpaul AT illinois DOT edu
