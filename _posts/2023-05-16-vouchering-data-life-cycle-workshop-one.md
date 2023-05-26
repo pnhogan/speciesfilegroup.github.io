@@ -1,38 +1,42 @@
 ---
 layout: post
-title: Towards Long-lived Specimens, Data, and Increased Impact
-author: Tommy McElrath and Deborah Paul
+title: "Towards Long-lived Specimens, Data, and Increased Impact"
+author: Tommy McElrath, Deborah Paul
 date: 2023-05-26 14:00:00 -0500
 categories: announce 
 ---
-_insights from our first Vouchering and Digital Data Management Workshop_
 
-post jointly by: Tommy McElrath, INHS Insect Collection, Researcher, Collection Manager, [https://orcid.org/0000-0003-0390-4227](https://orcid.org/0000-0003-0390-4227), tcm AT illinois DOT edu; Deborah Paul, INHS Species File Group Biodiversity Informatics Liaison, [https://orcid.org/0000-0003-2639-7520](https://orcid.org/0000-0003-2639-7520), dlpaul AT illinois DOT edu
+_Insights from our first Vouchering and Digital Data Management Workshop._
 
-_and workshop participants contributing to this blog post_
-- Enrique Santoyo-Brito, INHS NIZ Collections, Fluid Collections Manager, [https://orcid.org/0000-0003-3997-3232](https://orcid.org/0000-0003-3997-3232)
-- Valeria Trivellone, INHS, PostDoctoral researcher, [https://orcid.org/0000-0003-1415-4097]( https://orcid.org/0000-0003-1415-4097)
-- Sreelakshmi Suresh, Entomology, Graduate Student
-- Elizabeth Hrycyna, INHS, Research Technician
-- Virginia Roberts, Entomology, Research Technician
-- Alison Stodola, INHS Malacology Collection, [https://orcid.org/0000-0002-3942-8712](https://orcid.org/0000-0002-3942-8712) 
-- Ember Clodfelter, Entomology, Graduate Student
-- Phillip Hogan, Entomology, Graduate Student, [https://orcid.org/0000-0002-6546-272X](https://orcid.org/0000-0002-6546-272X)
-- Susan McIntyre, INHS, Assistant Research Scientist 
-- Kim Drager, INHS, Entomology Department
-- Juliana Soto Patiño, INHS Research Assistant, Graduate Student
-- Chris Stone, INHS, Entomology Department, Researcher
-- Lily Hart, INHS, Entomology, Species File Group
+### Authors (all workshop participants)
+* **(Lead)** Tommy McElrath, INHS Insect Collection, Researcher, Collection Manager, [https://orcid.org/0000-0003-0390-4227](https://orcid.org/0000-0003-0390-4227), <a href="mailto:tcm@illinois.edu">Email</a>
+* **(Lead)** Deborah Paul, INHS Species File Group Biodiversity Informatics Liaison, [https://orcid.org/0000-0003-2639-7520](https://orcid.org/0000-0003-2639-7520),<a href="mailto:dlpaul@illinois.edu">Email</a>
+* Enrique Santoyo-Brito, INHS NIZ Collections, Fluid Collections Manager, [https://orcid.org/0000-0003-3997-3232](https://orcid.org/0000-0003-3997-3232)
+* Valeria Trivellone, INHS, PostDoctoral researcher, [https://orcid.org/0000-0003-1415-4097]( https://orcid.org/0000-0003-1415-4097)
+* Sreelakshmi Suresh, Entomology, Graduate Student
+* Elizabeth Hrycyna, INHS, Research Technician
+* Virginia Roberts, Entomology, Research Technician
+* Alison Stodola, INHS Malacology Collection, [https://orcid.org/0000-0002-3942-8712](https://orcid.org/0000-0002-3942-8712) 
+* Ember Clodfelter, Entomology, Graduate Student
+* Phillip Hogan, Entomology, Graduate Student, [https://orcid.org/0000-0002-6546-272X](https://orcid.org/0000-0002-6546-272X)
+* Susan McIntyre, INHS, Assistant Research Scientist 
+* Kim Drager, INHS, Entomology Department
+* Juliana Soto Patiño, INHS Research Assistant, Graduate Student
+* Chris Stone, INHS, Entomology Department, Researcher
+* Lily Hart, INHS, Entomology, Species File Group
 
 # Why this workshop?
-With insights and skills gained as a participant at a 4-day [iDigBio Workshop: Field to Database](https://www.idigbio.org/wiki/index.php?title=Field_to_Database) in 2015, Tommy McElrath, INHS Insects Collection Manager and researcher, was inspired to create a similar event here (Paul et al 2015). 
-Fast forward to 2023, with [Species File Group](https://speciesfilegroup.org/) Informatics Liaison, Deborah Paul as a collaborator, we worked together to design a one-day version highlighting key topics of best (or at least better) practices for vouchering specimens and creating, stewarding, and using data. Additionally, we wanted to engage everyone in an informal needs assessement. We get to discover we have many similar knowledge / skills needs and think about how we can address these strategically as part of capacity development here at PRI and UIUC and with our students, colleagues, and administrators.
+With insights and skills gained as a participant at a 4-day [iDigBio Workshop: Field to Database](https://www.idigbio.org/wiki/index.php?title=Field_to_Database) in 2015, Tommy McElrath, INHS Insects Collection Manager and researcher, was inspired to create a similar event here (Paul et al 2015).  Fast forward to 2023, with [Species File Group](https://speciesfilegroup.org/) Informatics Liaison, Deborah Paul as a collaborator, we worked together to design a one-day version highlighting key topics of best (or at least better) practices for vouchering specimens and creating, stewarding, and using data. Additionally, we wanted to engage everyone in an informal needs assessement. We get to discover we have many similar knowledge / skills needs and think about how we can address these strategically as part of capacity development here at PRI and UIUC and with our students, colleagues, and administrators.
 
-![Vouchering and Data Workshop One Cohort](https://sfg.taxonworks.org/s/9oa3ih)  
-Photo by Cathy Bialeschki, compliments of Sreelakshmi Suresh’s camera. 16 May 2023
+<div style="float: left; margin: 1em;">
+<figure>
+    <img src="https://sfg.taxonworks.org/s/9oa3ih" title="Vouchering and Data Workshop One Cohort" alt="Vouchering and Data Workshop One Cohort" width="800px">
+    <figcaption>Photo by Cathy Bialeschki, compliments of Sreelakshmi Suresh’s camera. 16 May 2023</figcaption> 
+    </figure>
+</div>
+Our Vouchering and Data Workshop One Cohort - **Front row**: (left to right) Valeria Trivellone, Eric Schauber, Daniel Swanson, Virginia Roberts, Lauren Urie, Lily Hart, Elizabeth Hrycyna, Alison Stodola, Kim Drager, Susan McIntyre **Back row**: Enrique Santoyo-Brito, Dominic Evangelista, Mark Wetzel, the Bison, Chris Stone, Aidan Garrett, Ember Clodfelter, Sreelakshmi Suresh, Deborah Paul, Jason Karakehian, Tommy McElrath, Phillip Hogan. (Not in picture: Juliana Soto)
 
-Our Vouchering and Data Workshop One Cohort - **Front row**: (left to right) Valeria Trivellone, Eric Schauber, Daniel Swanson, Virginia Roberts, Lauren Urie, Lily Hart, Elizabeth Hrycyna, Alison Stodola, Kim Drager, Susan McIntyre
-**Back row**: Enrique Santoyo-Brito, Dominic Evangelista, Mark Wetzel, the Bison, Chris Stone, Aidan Garrett, Ember Clodfelter, Sreelakshmi Suresh, Deborah Paul, Jason Karakehian, Tommy McElrath, Phillip Hogan. (Not in picture: Juliana Soto)
+<div style="clear:both;"></div>
 
 # Who participated? 
 Many folks from different departments, especially the UIUC Entomology Department and from the Illinois Natural History Survey across disciplines and career stages from student to retired. Folks who attended collect all sorts, including plants, fungi, insects, fish, annelids, ticks, mollusks, and more ... and willingly shared their expert insights with everyone. We were pleased to have Eric Schauber, Director of INHS, attend for part of the day to both listen and contribute his insights.
