@@ -1,5 +1,4 @@
 # Catching up: A Comprehensive Taxonomic Update of the Psocodea Species File<img src="https://sfg.taxonworks.org/s/51uqvz" width="200" align="left" title="a parasitic louse">
-_work done by Researcher [Heidi Hopkins](https://orcid.org/0000-0003-0961-4554)_ from the [Species File Group](https://speciesfilegroup.org/)
 
 The Species File Group is happy to report that a long awaited update to the Psocodea Species File (PSF) was completed on 5/16/2023. 
 
@@ -16,5 +15,5 @@ To chew through these data for yourself (pun intended), visit the [Psocodea Spec
 in curating the PSF. The transition will also enable new programmatic ways to access the data giving additional benefits to the decades of curatorial effort behind the project. 
 
 ---
-
+_Work done by Researcher [Heidi Hopkins](https://orcid.org/0000-0003-0961-4554)_ from the [Species File Group](https://speciesfilegroup.org/)  
 Note _image of parasitic louse is copyright free_
