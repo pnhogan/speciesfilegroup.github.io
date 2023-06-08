@@ -58,9 +58,9 @@ Photos by Tommy McElrath and Sreelakshmi Suresh.
 - In the first half of our day, we learned about better ways to collect data in the field, as well as best practices for vouchering, [data standards](https://tdwg.org), labeling, and preparing specimens. 
 - In the second half, over half of attendees were blown away by the usefulness and potential of [OpenRefine](https://openrefine.org/), a data cleaning and visualizing tool. 
 - Throughout the day, attendees and presenters alike presented their expertise about all topics covered, showing how much of this day was about sharing experience and knowledge.
-- What might come next? What are our needs? Lots of attendees want to learn more about data manipulation tools, especially R, OpenRefine, versioning (e. g. using [GitHub](https://github.com/)), data standards, and relational databases. There was serious energy about doing another [Carpentries](https://carpentries.org/) workshop very soon! (Organizers note that UIUC is a Carpentries member and this gives our university some unique opportunities and a willing and pedagogically-trained group ready to help meet some of these skills / knowledge needs across all departments).
+- What might come next? What are our needs? Lots of attendees want to learn more about data manipulation tools, especially R, OpenRefine, versioning (e. g. using [GitHub](https://github.com/)), data standards, and relational databases. There was serious energy about doing another [Carpentries](https://carpentries.org/) workshop very soon! (Organizers note that UIUC is a Carpentries member and this gives our university some unique opportunities and a willing and pedagogically-trained group ready to help meet some of these skills / knowledge needs across all departments). 
 
-<img src="https://sfg.taxonworks.org/s/vmdbvh" title="What Comes Next? What Do We Need?" width="300" alt="What Comes Next? What Do We Need at PRI?"> <img src="https://sfg.taxonworks.org/s/uwcoj8" title="What Does the Collection Manager, Ecologist, Researcher of the Future, Need?" width="300" alt="What Does the Collection Manager, Ecologist, Researcher of the Future, Need?">  
+<img src="https://sfg.taxonworks.org/s/vmdbvh" title="What Comes Next? What Do We Need?" width="300" alt="What Comes Next? What Do We Need at PRI?"> <img src="https://sfg.taxonworks.org/s/uwcoj8" title="What Does the Collection Manager, Ecologist, Researcher of the Future, Need?" width="300" alt="What Does the Collection Manager, Ecologist, Researcher of the Future, Need?"> 
 Photos by Tommy McElrath.
 
 # From the participant’s point of view
@@ -85,6 +85,9 @@ For what might resonate with you in this post, we would love to know. Please fee
 Paul D (formerly at iDigBio, now INHS), Seltmann K (TTD-TCN, AMNH), Michonneau F (FLMNH - iDigBio), Masaki D (USGS - BISON), Soltis P (FLMNH - iDigBio PI), Ellis S (iDigBio), Love K (iDigBio) 2015. Field to Database: Biodiversity Informatics and Data Management Skills for Specimen Based Research Workshop. iDigBio host 2015 March 9 - 12. [https://www.idigbio.org/wiki/index.php?title=Field_to_Database](https://www.idigbio.org/wiki/index.php?title=Field_to_Database)
 
 # Acknowledgements
+<img src="https://sfg.taxonworks.org/s/8p2xaw" align="right" title="On the Head of a Pin" width="200" alt="On the Head of a Pin">    
+
 - Shout out to all who helped with collaborative note taking, especially Sreelakshmi Suresh.
 - A tasty thanks to INHS's own Cathy Bialeschki and Eric Shauber. With their input, participation, and some funding, not only did we eat well, our event space, logistics, and overall impact benefitted from their expert help.
+- And to Virginia Roberts, workshop participant and artist giving us permission to share this cool image she was inspired to draw at this event.
 
