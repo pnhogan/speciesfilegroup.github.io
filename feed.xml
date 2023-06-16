@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://speciesfilegroup.org/feed.xml" rel="self" type="application/atom+xml" /><link href="http://speciesfilegroup.org/" rel="alternate" type="text/html" /><updated>2023-06-16T12:44:49-05:00</updated><id>http://speciesfilegroup.org/feed.xml</id><title type="html">Species File Group</title><subtitle>Homepage of the Species File Group. </subtitle><entry><title type="html">Towards Long-lived Specimens, Data, and Increased Impact</title><link href="http://speciesfilegroup.org/announce/2023/05/26/vouchering-data-life-cycle-workshop-one.html" rel="alternate" type="text/html" title="Towards Long-lived Specimens, Data, and Increased Impact" /><published>2023-05-26T14:00:00-05:00</published><updated>2023-05-26T14:00:00-05:00</updated><id>http://speciesfilegroup.org/announce/2023/05/26/vouchering-data-life-cycle-workshop-one</id><content type="html" xml:base="http://speciesfilegroup.org/announce/2023/05/26/vouchering-data-life-cycle-workshop-one.html"><![CDATA[<p><em>Insights from our first Vouchering and Digital Data Management Workshop.</em></p>
+
+<h3 id="authors-all-workshop-participants">Authors (all workshop participants)</h3>
+<ul>
+  <li><strong>(Lead)</strong> Tommy McElrath, INHS Insect Collection, Researcher, Collection Manager, <a href="https://orcid.org/0000-0003-0390-4227">https://orcid.org/0000-0003-0390-4227</a>, <a href="mailto:tcm@illinois.edu">Email</a></li>
+  <li><strong>(Lead)</strong> Deborah Paul, INHS Species File Group Biodiversity Informatics Liaison, <a href="https://orcid.org/0000-0003-2639-7520">https://orcid.org/0000-0003-2639-7520</a>,<a href="mailto:dlpaul@illinois.edu">Email</a></li>
+  <li>Enrique Santoyo-Brito, INHS NIZ Collections, Fluid Collections Manager, <a href="https://orcid.org/0000-0003-3997-3232">https://orcid.org/0000-0003-3997-3232</a></li>
+  <li>Valeria Trivellone, INHS, PostDoctoral researcher, <a href="https://orcid.org/0000-0003-1415-4097">https://orcid.org/0000-0003-1415-4097</a></li>
+  <li>Sreelakshmi Suresh, Entomology, Graduate Student</li>
+  <li>Elizabeth Hrycyna, INHS, Research Technician</li>
+  <li>Virginia Roberts, Entomology, Research Technician</li>
+  <li>Alison Stodola, INHS Malacology Collection, <a href="https://orcid.org/0000-0002-3942-8712">https://orcid.org/0000-0002-3942-8712</a></li>
+  <li>Ember Clodfelter, Entomology, Graduate Student</li>
+  <li>Phillip Hogan, Entomology, Graduate Student, <a href="https://orcid.org/0000-0002-6546-272X">https://orcid.org/0000-0002-6546-272X</a></li>
+  <li>Susan McIntyre, INHS, Assistant Research Scientist</li>
+  <li>Kim Drager, INHS, Entomology Department</li>
+  <li>Juliana Soto Patiño, INHS Research Assistant, Graduate Student</li>
+  <li>Chris Stone, INHS, Entomology Department, Researcher</li>
+  <li>Lily Hart, INHS, Entomology, Species File Group</li>
+</ul>
+
+<h1 id="why-this-workshop">Why this workshop?</h1>
+<p>With insights and skills gained as a participant at a 4-day <a href="https://www.idigbio.org/wiki/index.php?title=Field_to_Database">iDigBio Workshop: Field to Database</a> in 2015, Tommy McElrath, INHS Insects Collection Manager and researcher, was inspired to create a similar event here (Paul et al 2015).  Fast forward to 2023, with <a href="https://speciesfilegroup.org/">Species File Group</a> Informatics Liaison, Deborah Paul as a collaborator, we worked together to design a one-day version highlighting key topics of best (or at least better) practices for vouchering specimens and creating, stewarding, and using data. Additionally, we wanted to engage everyone in an informal needs assessement. We get to discover we have many similar knowledge / skills needs and think about how we can address these strategically as part of capacity development here at PRI and UIUC and with our students, colleagues, and administrators.</p>
+
+<div style="float: left; margin: 1em;">
+<figure>
+    <img src="https://sfg.taxonworks.org/s/9oa3ih" title="Vouchering and Data Workshop One Cohort" alt="Vouchering and Data Workshop One Cohort" width="800px" />
+    <figcaption>Photo by Cathy Bialeschki, compliments of Sreelakshmi Suresh’s camera. 16 May 2023</figcaption> 
+    </figure>
+</div>
+<p>Our Vouchering and Data Workshop One Cohort - <strong>Front row</strong>: (left to right) Valeria Trivellone, Eric Schauber, Daniel Swanson, Virginia Roberts, Lauren Urie, Lily Hart, Elizabeth Hrycyna, Alison Stodola, Kim Drager, Susan McIntyre <strong>Back row</strong>: Enrique Santoyo-Brito, Dominic Evangelista, Mark Wetzel, the Bison, Chris Stone, Aidan Garrett, Ember Clodfelter, Sreelakshmi Suresh, Deborah Paul, Jason Karakehian, Tommy McElrath, Phillip Hogan. (Not in picture: Juliana Soto)</p>
+
+<div style="clear:both;"></div>
+
+<h1 id="who-participated">Who participated?</h1>
+<p>Many folks from different departments, especially the UIUC Entomology Department and from the Illinois Natural History Survey across disciplines and career stages from student to retired. Folks who attended collect all sorts, including plants, fungi, insects, fish, annelids, ticks, mollusks, and more … and willingly shared their expert insights with everyone. We were pleased to have Eric Schauber, Director of INHS, attend for part of the day to both listen and contribute his insights.</p>
+
+<h1 id="what-did-we-experience">What did we experience?</h1>
+<p>You can see the broad topics we covered and even see the slides on <a href="https://github.com/tmcelrath/UIUC-Vouchering-Workshop-2023">our workshop repository</a> on GitHub. Intrigued? We are repeating this event on 18 August 2023 and there are still some slots. Now’s the time to sign up so you are sure to get a spot. [See the repository for a link to the sign up sheet - 10 spots left at this writing].</p>
+
+<h2 id="we-asked-and-discussed-questions-like">We asked and discussed questions like:</h2>
+<ul>
+  <li>What does the <em>future you</em> need (for data, for vouchers)?</li>
+  <li>Are we collecting and sharing the data that will make our future selves and future researchers like us happy?</li>
+  <li>What software are we all using and what software would we like to learn?</li>
+  <li>Where do we get these skills and knowledge (i.e. capacity development) that we’re discovering in this workshop?</li>
+  <li>What do we know presents challenges and that we need to watch out for when caring for specimens (and related data) to ensure they have a long(er) life? (flat, pinned, or wet!).</li>
+</ul>
+
+<p><img src="https://sfg.taxonworks.org/s/1oj551" width="250" title="Software we use" alt="Software we use" />. <img src="https://sfg.taxonworks.org/s/uei6y7" width="250" title="Software / skills this group wants to learn" alt="Software / skills this group wants to learn" />. <img src="https://sfg.taxonworks.org/s/ig1k5l" width="250" title="Challenging Data Tasks" alt="Challenging Data Tasks" /><br />
+Photos by Tommy McElrath and Sreelakshmi Suresh.</p>
+
+<h1 id="what-did-we-learn">What did we learn?</h1>
+<ul>
+  <li>In the first half of our day, we learned about better ways to collect data in the field, as well as best practices for vouchering, <a href="https://tdwg.org">data standards</a>, labeling, and preparing specimens.</li>
+  <li>In the second half, over half of attendees were blown away by the usefulness and potential of <a href="https://openrefine.org/">OpenRefine</a>, a data cleaning and visualizing tool.</li>
+  <li>Throughout the day, attendees and presenters alike presented their expertise about all topics covered, showing how much of this day was about sharing experience and knowledge.</li>
+  <li>What might come next? What are our needs? Lots of attendees want to learn more about data manipulation tools, especially R, OpenRefine, versioning (e. g. using <a href="https://github.com/">GitHub</a>), data standards, and relational databases. There was serious energy about doing another <a href="https://carpentries.org/">Carpentries</a> workshop very soon! (Organizers note that UIUC is a Carpentries member and this gives our university some unique opportunities and a willing and pedagogically-trained group ready to help meet some of these skills / knowledge needs across all departments).</li>
+</ul>
+
+<p><img src="https://sfg.taxonworks.org/s/vmdbvh" title="What Comes Next? What Do We Need?" width="300" alt="What Comes Next? What Do We Need at PRI?" /> <img src="https://sfg.taxonworks.org/s/uwcoj8" title="What Does the Collection Manager, Ecologist, Researcher of the Future, Need?" width="300" alt="What Does the Collection Manager, Ecologist, Researcher of the Future, Need?" /> 
+Photos by Tommy McElrath.</p>
+
+<h1 id="from-the-participants-point-of-view">From the participant’s point of view</h1>
+<p>Want to know more about what you can expect? Presentations from Tommy and Debbie were interspersed with hands-on activities. If you check out our shared notes (see the <a href="https://github.com/tmcelrath/UIUC-Vouchering-Workshop-2023">workshop repository</a> for links) you can also learn more. Next, we asked our workshop attendees to share with you what they found compelling / useful..</p>
+
+<ul>
+  <li>It was a great opportunity to think about how I can more effectively collect data in the field and have that preserved along with my specimen data. Most of the participants used similar field labeling methods, but none of us did things exactly the same. I think we all came out of it taking away something new that will improve our science.</li>
+  <li>This was a great experience and opportunity to learn more about best practices concerning data collection and specimens preservation. No matter the biological collection similar conservation standards and methods may be applied. Learning directly from experts in the matter was, of course, a plus!</li>
+  <li>It was a very useful opportunity to share experiences with colleagues that handle big data in different fields of biological research. This workshop stimulated me to revise the data workflow for my research program. Studying biological interactions, I handle big and high-dimensional data which require the use of established ontologies, shared standards, selected software to share and use data from multiple sources. Finally, my goal is to optimize/minimize human transcription time and error. – Valeria Trivellone.</li>
+  <li>Having been a curatorial assistant in an herbarium before, I never quite got the database training I had hoped. This workshop was a great introduction on biological databases and tools. I wish I had known much of the information before, but I’ll make the most of it now! – Sreelakshmi Suresh</li>
+  <li>I came away from this workshop better prepared to design and execute field data collection to make it more efficient and complete. I also feel more equipped to clean and merge large datasets that I or others created. This workshop was particularly great because I learned general strategies for data management and insect vouchering that I can apply to a wide variety of research, as well as specific tips that I have already implemented in my work! While the workshop is centered around insects, it is a great learning opportunity for anyone working with biological specimens and data.</li>
+  <li>This was a rare opportunity for an early career scientist to discuss the finer details of data collection and management with more experienced professionals. While I usually dread data cleaning, leaving this workshop I was excited to get to work using new tools and ideas brought by both the organizers and fellow attendees. – Virginia Roberts</li>
+  <li>This was a well-designed workshop that met each participant where they were and provided useful tools for data success. I loved learning how each of us gather, store, organize, and use data, and I found the refinement software OpenRefine to be particularly helpful.</li>
+  <li>My favorite conversation topic from the workshop was about how to make your specimens useful 100+ years in the future. Thinking about what data to collect in the field and how to make specimens useful across disciplines was very interesting and will certainly be useful going forward. As someone who has worked in a few entomological collections, I wish I’d known some of this information before, especially some of the tools to help streamline tedious processes (OpenRefine!), but I look forward to using them in the future.  – Ember Clodfelter</li>
+  <li>Absolutely a blast taking this workshop. I am convinced that this workshop should be a requirement for entomology students to take some time during their career here at UIUC because of how useful the information was. The crash course on a wide variety of subjects was well structured. – Phillip Hogan</li>
+  <li>Coming from a non-entomology background, it was helpful to hear how other researchers collect and use data, even 100 years later. The format of the workshop was also interesting, with plenty of time for group participation, sharing knowledge and experience. I learned about many resources available to me as I embark on my own collections and best practices to make my specimens useful for future researchers.</li>
+</ul>
+
+<h1 id="your-thoughts-on-these-topics">Your thoughts on these topics?</h1>
+<p>For what might resonate with you in this post, we would love to know. Please feel free to send Tommy and/or Debbie an email or better yet, post your ideas to our GitHub repository as a  “<a href="https://github.com/tmcelrath/UIUC-Vouchering-Workshop-2023/issues">New issue</a>.”</p>
+
+<h1 id="references">References</h1>
+
+<p>Paul D (formerly at iDigBio, now INHS), Seltmann K (TTD-TCN, AMNH), Michonneau F (FLMNH - iDigBio), Masaki D (USGS - BISON), Soltis P (FLMNH - iDigBio PI), Ellis S (iDigBio), Love K (iDigBio) 2015. Field to Database: Biodiversity Informatics and Data Management Skills for Specimen Based Research Workshop. iDigBio host 2015 March 9 - 12. <a href="https://www.idigbio.org/wiki/index.php?title=Field_to_Database">https://www.idigbio.org/wiki/index.php?title=Field_to_Database</a></p>
+
+<h1 id="acknowledgements">Acknowledgements</h1>
+<p><img src="https://sfg.taxonworks.org/s/8p2xaw" align="right" title="On the Head of a Pin" width="200" alt="On the Head of a Pin" /></p>
+
+<ul>
+  <li>Shout out to all who helped with collaborative note taking, especially Sreelakshmi Suresh.</li>
+  <li>A tasty thanks to INHS’s own Cathy Bialeschki and Eric Shauber. With their input, participation, and some funding, not only did we eat well, our event space, logistics, and overall impact benefitted from their expert help.</li>
+  <li>And to Virginia Roberts, workshop participant and artist giving us permission to share this cool image she was inspired to draw at this event.</li>
+</ul>]]></content><author><name>Tommy McElrath, Deborah Paul</name></author><category term="announce" /><summary type="html"><![CDATA[Insights from our first Vouchering and Digital Data Management Workshop.]]></summary></entry><entry><title type="html">Heidi Hopkins of Species File Group receives grant from Orthopterists’ Society to conduct research on cockroaches in Australia</title><link href="http://speciesfilegroup.org/announce/2023/05/26/cockroaches-and-heidi-in-australia.html" rel="alternate" type="text/html" title="Heidi Hopkins of Species File Group receives grant from Orthopterists’ Society to conduct research on cockroaches in Australia" /><published>2023-05-26T10:30:00-05:00</published><updated>2023-05-26T10:30:00-05:00</updated><id>http://speciesfilegroup.org/announce/2023/05/26/cockroaches-and-heidi-in-australia</id><content type="html" xml:base="http://speciesfilegroup.org/announce/2023/05/26/cockroaches-and-heidi-in-australia.html"><![CDATA[<div style="float: right; margin: 1em; width=340">
+<figure> <img src="https://sfg.taxonworks.org/s/eyxm95" title="Polyzosteria fulgens" alt="Polyzosteria fulgens" width="300" />   
+<figcaption><i>Polyzosteria fulgens</i> Mackerras 1965. <br />Copyright holder: Western Australia Museum. <br /> Photo credit: Heidi Hopkins</figcaption> 
+</figure>
+</div>
+
+<p>Researcher <a href="https://orcid.org/0000-0003-0961-4554">Heidi Hopkins</a>, PhD, is a Blattodea specialist, with a particular research focus on  the family Corydiidae, many of which are desert cockroaches.  Working in both <a href="https://taxonworks.org">TaxonWorks</a> and Species File software, she curates data for the <a href="https://speciesfilegroup.org/">Species File Group</a> in eight extant orders of insect, one extinct order of insect, and is building a catalog of the Isoptera. Her current research includes the identification of the Blattodea collection at <a href="https://insect.inhs.illinois.edu/">INHS</a> and searching for new species amongst the <em>Arenivaga</em> cockroach populations of Florida.</p>
+
+<div style="float: left; margin: 1em; width=340">
+<figure>
+    <img src="https://sfg.taxonworks.org/s/imztvh" title="Tivia australica" alt="Tivia australica" width="300" />
+    <figcaption><i>Tivia australica</i> Princis, 1954. <br />Copyright holder: Illinois Natural History Survey.<br /> Photo credit: Heidi Hopkins</figcaption> 
+    </figure>
+</div>
+
+<p>She recently received a grant of $6500 from <a href="https://orthsoc.org/">The Orthopterists’ Society</a> to spend a month in the natural history museums of Queensland, Perth, Adelaide, Melbourne and Darwin, Australia. There, she photographed all available Blattodea primary types for TaxonWorks, including this beauty from <a href="https://data.museum.wa.gov.au/dataset/terrestrial-zoology">Western Australia Museum</a>, Perth.</p>
+
+<p>She also searched both the wet and dry collections of these museums for unidentified  specimens of <a href="https://bie.ala.org.au/species/https://biodiversity.org.au/afd/taxa/ad049019-da30-43fc-9279-2e60447fc735">Corydiidae</a>, similar to the one pictured here, with the future goal of examining borrowed materials for new species.  The Australian Corydiidae have not been revised since 1968. This trip was completed in March, 2023.</p>
+
+<div style="clear:both;">
+</div>]]></content><author><name>Heidi Hopkins</name></author><category term="announce" /><summary type="html"><![CDATA[Polyzosteria fulgens Mackerras 1965. Copyright holder: Western Australia Museum. Photo credit: Heidi Hopkins]]></summary></entry><entry><title type="html">Catching up: A Comprehensive Taxonomic Update of the Psocodea Species File</title><link href="http://speciesfilegroup.org/announce/2023/05/25/catching-up-psocodea.html" rel="alternate" type="text/html" title="Catching up: A Comprehensive Taxonomic Update of the Psocodea Species File" /><published>2023-05-25T14:30:00-05:00</published><updated>2023-05-25T14:30:00-05:00</updated><id>http://speciesfilegroup.org/announce/2023/05/25/catching-up-psocodea</id><content type="html" xml:base="http://speciesfilegroup.org/announce/2023/05/25/catching-up-psocodea.html"><![CDATA[<p><i>The Species File Group is happy to report that a long awaited update to the Psocodea Species File (PSF) was completed on 5/16/2023.</i></p>
+
+<p><img src="https://sfg.taxonworks.org/s/51uqvz" width="200" align="left" title="a parasitic louse" style="padding: 1.2em" /></p>
+
+<p><strong>Some background</strong>.  In the early 2000s, lice researchers showed that the parasitic lice (at that time Order Phthiraptrera) evolved from within the bark lice (at that time Order Psocoptera). This left the latter paraphyletic with regard to Phthiraptera, leading researchers to sink Phthiraptera within Psocoptera, below suborder Troctomorpha, and to rename the new inclusive order Psocodea. Keeping track and summarizing ongoing scientific work like this takes (a lot of!) time and expertise.</p>
+
+<p>Due to time constraints and a later changing of personnel curating PSF, the regular input of data into Phthiraptera was placed on indefinite hold.  This project was finally tackled last year and the taxonomic research on Phthiraptera from the past 23 years has now been entered, filtered from over 900 papers on the group published during that timespan.</p>
+
+<p>To chew through these data for yourself (pun intended), visit the <a href="http://psocodea.speciesfile.org/HomePage/Psocodea/HomePage.aspx">Psocodea Species File</a>.  📢 Later in 2023 these data will move to <a href="https://taxonworks.org">TaxonWorks</a>. We hope this transition provides an opportunity for the broader community to participate in curating the PSF. The transition will also enable new programmatic ways to access the data giving additional benefits to the decades of curatorial effort behind the project.</p>
+
+<hr />
+
+<p><em>Work done by Researcher <a href="https://orcid.org/0000-0003-0961-4554">Heidi Hopkins</a></em> from the <a href="https://speciesfilegroup.org/">Species File Group</a><br />
+<em>Note: image of parasitic louse is copyright free.</em></p>]]></content><author><name>Species File Group</name></author><category term="announce" /><summary type="html"><![CDATA[The Species File Group is happy to report that a long awaited update to the Psocodea Species File (PSF) was completed on 5/16/2023.]]></summary></entry><entry><title type="html">Appreciating TaxonWorks Together 2022</title><link href="http://speciesfilegroup.org/event/2022/10/07/taxonworks-together-2022.html" rel="alternate" type="text/html" title="Appreciating TaxonWorks Together 2022" /><published>2022-10-07T00:00:00-05:00</published><updated>2022-10-07T00:00:00-05:00</updated><id>http://speciesfilegroup.org/event/2022/10/07/taxonworks-together-2022</id><content type="html" xml:base="http://speciesfilegroup.org/event/2022/10/07/taxonworks-together-2022.html"><![CDATA[<p><img src="https://user-images.githubusercontent.com/2990155/191803489-b9a9c76e-c471-41e2-b734-40996f86ca0a.png" alt="twt2022 logo" align="right" height="150" />139 people joined our <a href="https://github.com/SpeciesFileGroup/taxonworks_together_2022">3rd TaxonWorks Together Event</a>. Part conference, part community roundtable, part choose-your-own-adventure unconference, for three days we explored, shared, and learned about TaxonWorks (TW) and from each other as collaborators, all working to make it possible to <em>describe life.</em></p>
+
+<p>To delve deeper into what topics we covered, please <a href="https://github.com/SpeciesFileGroup/taxonworks_together_2022">peruse the agenda</a>. Links to meeting minutes are included there. New this year, we’ve uploaded a good portion of the content on to <a href="https://www.youtube.com/playlist?list=PLPSu6w4rwUI64wbHDzUUT2ZRIImMC8Yns">YouTube</a>!</p>
+
+<p>A huge thank you! to all involved in planning, speaking, and engaging – in all the activities. And of course, <a href="https://speciesfilegroup.org/events.html">join us on Wednesdays</a> with your followup-up questions, all topics are welcome.</p>
+
+<p><strong>Getting started.</strong></p>
+
+<p><img src="https://user-images.githubusercontent.com/2990155/191781266-c9417498-6d1a-4b08-a0fd-af99076e4b0f.PNG" align="right" height="200" /><img src="https://user-images.githubusercontent.com/2990155/191781267-bc09fe96-3a4d-491c-81b9-c97b8a94d374.PNG" align="right" height="200" /> One never quite knows how many people will register for any event. With the magic of social media and one particular Facebook post, we extended our reach far into the Latin American world. Muchas gracias! With the help of several Species File Group (SFG) members and Jennifer Girón, our participants could ask questions in Spanish and we could answer them (in English and Spanish too). While some who participated know TW well, others joined as first-time explorers. We also noted a richly diverse audience when we asked about the roles they engage in. (see screenshots)</p>
+
+<p><strong>Software AND Community.</strong></p>
+
+<p>Embodied in the philosophy and vision of the Species File Group, and evidenced in the building of the TaxonWorks workbench software, is our goal to serve, support, and engage with those who use the software and those who collaborate in the building of the software. Our TWT2022 sessions highlight our efforts to do this – together.</p>
+
+<p><strong>The Big Picture. Day One.</strong></p>
+
+<p><img src="https://user-images.githubusercontent.com/2990155/191786645-e57abcd5-e174-4ae7-90f9-9da49eb8c938.png" align="right" height="125" />
+We started with an Introduction and State of All Things SFG: highlights of 2021+ (<a href="https://www.youtube.com/watch?v=cESEbYyixrw">Youtube</a>). A great place to start for experienced users and our new folks. From there, we experienced a very quick (fun!) tour of just what’s inside TaxonWorks, see for yourself with the <a href="https://www.youtube.com/watch?v=Of0U9zDUDFA&amp;list=PLPSu6w4rwUI64wbHDzUUT2ZRIImMC8Yns&amp;index=2">Quick hits video</a>. A blitz of features new and old, including those you might have missed. With all of us now up-to-date, we enjoyed our TaxonWorks Community Speaks session where various community members share their individual/community use cases, their progress, their dreams for TW. With their presentations, you can listen-in too or review their slides. Thanks very much to:</p>
+
+<ul>
+  <li>Jim Woolley - representing the Universal Chalcidoidea Database</li>
+  <li>Davide Dal Pos - wasps (specifically, Ichneumoninae)</li>
+  <li>Emily Struckhoff - of ticks and interactive keys</li>
+  <li>Brian Fisher - AntWeb</li>
+  <li>Belén Cabrera - Orthoptera Species File</li>
+  <li>Donald Hobern - The Global Lep Index</li>
+</ul>
+
+<p><strong>The TaxonWorks Ecosystem. Day Two.</strong></p>
+
+<p>For a community gathering around a software suite to thrive, they need a system indexed for searching documentation, in which they can both contribute and edit. Framing documentation as a collaborative, we selected software that makes <a href="https://docs.taxonworks.org/">docs.taxonworks.org</a> possible. It’s a work-in-progress now developed to the point the whole community (anyone) can add / edit / explore /search / link and we’ve had our first community-committed changes made at TWT2022 just after our quick tour.</p>
+
+<p>For the data and our community to thrive and grow, the information in the database (and related objects like images) need to get out of TaxonWorks. Insect Collections Manager, Tommy McElrath took us on a journey from a TW Collection Object, to getting over 1M records from INHS to GBIF to highlight the local to global process of digitization (<a href="https://www.youtube.com/watch?v=FaykRv8rMBg">Youtube</a>).</p>
+
+<p>Next we explored “Spinoffs”, that is, tools emerging out of the Species File Group connected to but distinct from TaxonWorks itself. In a very exciting moment, we saw the demonstration (and later the same afternoon, use) of our <a href="https://github.com/speciesFileGroup/taxonpages">TaxonPages</a> software. What does it do? It provides you with a way to create, customize, and extend your own “Pages” for public view, sharing the data stored inside your TW project database. We discovered we can make public-facing <a href="https://github.com/speciesFileGroup/distinguish">interactive Keys</a> in TW (generated almost magically!) from TW Matrices. We learned it is now possible to generate Taxonomic Catalogs for your TW captured data, and researcher Kojun Kanda shared how he has learned to write / edit existing <a href="https://github.com/SpeciesFileGroup/taxonworks_api_scripts">API scripts</a> that support him getting the data he needs – in the format he needs it in – from his own instance of TW.</p>
+
+<p><img src="https://user-images.githubusercontent.com/2990155/191793593-280aa593-5e3f-4854-b232-80d5f652692b.png" alt="poll about writing code" align="right" height="125" /> <img src="https://user-images.githubusercontent.com/2990155/191794499-bed359de-5161-42da-bf32-8db9936fc574.png" alt="n8n software screenshot" align="right" height="125" />  If you say, “I don’t know how to code”, we learned about “no code” / “low code” tools, specifically <a href="https://n8n.io/">n8n</a>. Using this tool, SFG software developer, Geoff Ower shared “Linking it all: A practical exploration of linking Biodiversity Informatics APIs using n8n.” At the SFG we are very excited to note Geoff also submitted this work for the <a href="https://www.gbif.org/news/77jGLQMqzZtjQi10AxAgrY/2022-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity">GBIF Ebbe Nielsen Prize 2022</a>. (Oh my goodness Debbie, What’s an API? That’s Application Programming Interface). Notice how our poll shows why tools like these are quite important.</p>
+
+<p><img src="https://user-images.githubusercontent.com/2990155/191796120-327110c9-3e82-4b0a-8588-9140ddf5f47f.png" alt="character states" align="right" height="125" /><img src="https://user-images.githubusercontent.com/2990155/191796152-057b1393-43c3-4477-9597-51c8aadb113e.png" alt="matrix hub screenshot" align="right" height="125" />We wrapped up day two with our first choose-your-own-adventure (aka TaxonWorks <strong>Unconference</strong> I). Participants provided topics, then voted on them, and off we went to engage in creating TaxonPages, creating a Matrix in TaxonWorks and then, creating a Key using “<a href="https://github.com/SpeciesFileGroup/distinguish">distinguish</a>” to publish that key.</p>
+
+<p><strong>Community curation, Growing TaxonWorks. Day 3.</strong></p>
+
+<p>Curious about future TW plans? We started our third day with an overview from Matt about “What’s Next for TaxonWorks in 2023+”.  This transitioned into an open session where we collaboratively worked on a prioritization list.</p>
+
+<p>Next, what does a community do to move from one person gathering all related nomenclature and related publications for over 20 years to a community-based sustainable model designed to share expertise and tacit knowledge? Here we learned from the folks collaboratively curating the Universal Chalcidoidea Database (UCD@TW). They shared their experience using the “barbeque” (BBQ) strategy and TW to work on-a-regular-basis both “alone” and “together” to speed up their community collective efforts to catch up (and then keep up) with databasing relevant chalcid nomenclatural data as they prepare for publication. In the recording and through the slides, find out “What’s a BBQ anyway and how is this working for the UCD?”</p>
+
+<p>In the presentation “The 3i Experience: focus on Matrices”, Ph D student Saad A. El-Sonbati offered in-depth insights into his ideas for functions to add to the matrix software. We eagerly gathered many of these ideas in our <a href="https://github.com/SpeciesFileGroup/taxonworks/issues">GitHub repository</a>. Saad is an enthusiastic user of TaxonWorks and we learned more about his efforts in the next event …</p>
+
+<p>With <strong>The Student’s View</strong> section, Davide Dal Pos, Emily Struckoff, and Saad A. El-Sonbati walked us through their research use cases. We want to know and share where TW supports or could support their work (and where it cannot, too). We were treated to three fabulous examples of TW-in-action.</p>
+
+<p>In <strong>3 Minutes 1 Slide</strong> anyone participating in TWT2022 got the chance to share whatever TW-related ideas they wished. Three people put their hand up. First, Megan McCuller, Marine Invertebrate (non-molluscan) Collection Manager, is also a bryophyte researcher. Her use case centers around being able to use TW collaboratively in conjunction with the Specify database at the North Carolina Museum of Natural Sciences in support of her research use case. In “one” slide, she clearly communicated the complexity of what she wants to be able to do given the fact that epibiota are very common in marine invertebrate collections. Sharing and studying these relationships and taxa requires tools making it possible to easily communicate hosts / substrates / and relationships between these taxa for a given specimen.</p>
+
+<p><img src="https://user-images.githubusercontent.com/2990155/191801270-164043f3-5aee-4a2f-ac18-75bfba555402.png" alt="megan's one slide showing epibiota" height="200" /></p>
+
+<p>Researcher Heidi Hopkins studies the Blattodea. She knows TaxonWorks and Species File software and manages data in 8 Species Files. Her use case highlights what is possible when the researcher can work directly with collections and inside the software for those collections. With a loan of 10 INHS drawers of pinned Blattodea, over the course of year, Heidi imaged and identified specimens, added taxon names needed, and discovered a new species – all while working directly inside TW. Next she’s going to work on the specimens in alcohol. She is excited to note how empowering it is to work in this new, integrated, collaborative: collections + researchers in one workbench. Thanks to both Heidi and to Tommy McElrath, INHS Insect Collection Manager for exemplifying what this collaboration can accomplish.</p>
+
+<p><img src="https://user-images.githubusercontent.com/2990155/191802280-8edd50b2-5da0-44e8-aac6-59369aa993b7.png" alt="heidi's slide showing blattodea and images in taxonworks" height="200" /></p>
+
+<p>From Jennifer Girón, Ph D student, we listened as she described an imagined future in which those studying the Entiminae (14K species) work collaboratively in TW to gather literature and specimens in a working community. She envisions harmonization of characters and character-state descriptions via depictions to produce matrices and associated keys. In addition, she sees this TW workbench and community as a way to train and empower students (from anywhere on the planet to codify, to identify, to collaborate and share expertise. Jennifer, like Heidi, stresses how having the tool set up, and showing it in use, can encourage others to join and close the gap between research and collections.
+<img src="https://user-images.githubusercontent.com/2990155/191802910-707b9afb-cdfd-476c-913d-1514e89c9d0f.png" alt="jennifer's slide showing her wishes for the Entiminae community and taxonworks" height="200" /></p>
+
+<p>A huge thank you to all the students and those who did “3 minutes 1 slide” to share their work and their vision for both their own research and for their respective communities. These stories help the Species File Group, TW, and the community-at-large to understand where we are, where you want to go, so we can figure out how we might get there!</p>
+
+<p>We wrapped up day 3 with the <strong>Species File Group Business Meeting</strong> to review our collaboration model and vision for new and existing partners using TaxonWorks and other SFG efforts. Then, we stepped into TaxonWorks Unconference II: where the two topics selected by participants included a Novice Tour of TaxonWorks lead by Deborah Paul, Tommy McElrath, Dmitry Dmitriev, and Using the TaxonWorks API.</p>
+
+<p><strong>So what’s next?</strong></p>
+
+<p>The TWT2022 events and conversations give us a lot of material to review to help guide our prioritization list and enhance our community and software-building engagement. Some ideas that came out of TWT2022 to explore include:
+- offering a “novice” break-out room at each of our Wednesday meetings (compared to honing in on specific topics such as nomenclature, digitization, or matrices).
+- engage even more students next year. Their stellar presentations this year inspired all of us, and give us those aha moments for what TW offers them, or could offer them.
+- documenting our various key use cases so that those considering various software tools can see themselves in a given group (or not)
+- developing a sort of ambassador system to match experienced users with those whose use-case matches, but they need a mentor, and
+- encourage people to contribute to the documentation when asked a question, rather than (or in addition to) sending a 1:1 email</p>
+
+<p>We welcome all of you to explore and join our TaxonWorks community and please join us next year for TWT2023. Please see the <a href="https://speciesfilegroup.org/events.html">events page</a> to find out how.</p>]]></content><author><name>Deborah Paul, Matt Yoder</name></author><category term="event" /><summary type="html"><![CDATA[139 people joined our 3rd TaxonWorks Together Event. Part conference, part community roundtable, part choose-your-own-adventure unconference, for three days we explored, shared, and learned about TaxonWorks (TW) and from each other as collaborators, all working to make it possible to describe life.]]></summary></entry><entry><title type="html">Expanding Our Reach: the Species File Group (aka SFG) Goes to SPNHC 2022</title><link href="http://speciesfilegroup.org/event/2022/05/11/spnhc2022-preconferenceblog.html" rel="alternate" type="text/html" title="Expanding Our Reach: the Species File Group (aka SFG) Goes to SPNHC 2022" /><published>2022-05-11T00:00:00-05:00</published><updated>2022-05-11T00:00:00-05:00</updated><id>http://speciesfilegroup.org/event/2022/05/11/spnhc2022-preconferenceblog</id><content type="html" xml:base="http://speciesfilegroup.org/event/2022/05/11/spnhc2022-preconferenceblog.html"><![CDATA[<p><img src="https://sfg.taxonworks.org/s/mv04la" align="right" width="300" /> Creating virtual and hybrid meetings offer all of us, including the Species File Group opportunities for extending our communities – local to global. The Society for the Preservation of Natural History Collections <a href="www.spnhc.org">SPNHC</a> offers a hybrid joint <a href="https://spnhc2022.com/">2022 Conference</a> this year with International Partner – <a href="https://www.biodiversitylibrary.org/">BHL</a> (Biodiversity Heritage Library) and National Partner – <a href="https://natsca.org/">NatSCA</a> (Natural Sciences Collections Association based in the UK).</p>
+
+<p>Staff from the SFG, INHS, and PRI shepherd the development and use of collections both physical and digital. The annual SPNHC conference provides a venue to highlight the data, the specimens, and all that we do. Note the fitting conference theme:</p>
+
+<blockquote>
+  <p><strong>Through the door and through the web: releasing the power of natural history collections onsite and online</strong></p>
+</blockquote>
+
+<h2 id="sfg-activities-at-spnhc2022">SFG Activities at SPNHC2022</h2>
+
+<p>At the very popular SPNHC (live!) DEMO Camp, our very own <a href="https://orcid.org/0000-0003-1593-1417">Dmitry Mozzherin</a> will do a live demonstration of software he’s built:
+- <a href="https://globalnames.org/">Global Names Architecture</a> tools for verification, normalization, and detection of scientific names
+- <a href="https://orcid.org/0000-0002-9770-2345">Geoff Ower</a>, SFG Developer, contibutes to this work as well to enhance the use of the Global Names software suite by the Biodiversity Heritage Library.</p>
+
+<p>If you work with, create, search for, need taxon names for your work, please check out these <a href="https://globalnames.org/">global names tools</a> – your future self will be so happy. And if you want to ask for help, you can find Dmitry on the <a href="https://gitter.im/GlobalNamesArchitecture/GlobalNames">Global Names Gitter</a>. (What’s gitter? It’s like a chat room. If you’ve got a GitHub account, it’s very simple and fun to use gitter). If twitter fits your style, find Dmitry there as <a href="https://twitter.com/dimus">@dimus</a> and also <a href="@GlobalNames">@GlobalNames</a>.</p>
+
+<p><a href="https://orcid.org/0000-0001-7185-4511">Michelle Kohler</a> holds the honor and our awe for being the person logging in the most hours using TW. Her insights give us the huge gift of helping us improve the software and the collaborator experience. In her talk at SPNHC 2022 co-authored with <a href="https://orcid.org/0000-0003-0390-4227">Thomas McElrath</a>, we anticipate learning a lot about what’s great, what needs work, and maybe a peek into the future.</p>
+
+<ul>
+  <li>TaxonWorks: A User’s Perspective: Digitizing a specimen start to finish</li>
+</ul>
+
+<p>Collections only happen because people gather, care for, and use these objects and data for all sorts of reasons from research to land management policy development to outreach and more. Especially with legacy collections, knowing exactly who collected or identified a specimen can be challenging (e.g. name abbreviations, very common names) but very valuable. For example, knowing who these people are, historically and at present means individuals and organizations can better track metrics of their impact in their communities and across the globe. At SPNHC 2022, SFG team-member Deborah Paul joins with Quentin Groom (Meise Botanic Garden), David Shorthouse, and Shelley James (Western Australia Herbarium) in an international setting to help collection managers discover how wikidata can be an intregral tool for working together to share people information and harness the power these data hold for good.</p>
+
+<ul>
+  <li>Workshop: People are Unique, Unique People are Priceless</li>
+</ul>
+
+<p>More and more data gets collected and created everyday in addition to our huge legacy data pile in collections. We need staff, tools, skills, and infrastructure to do this work, and make best use of it. Finding help with data, data infrastructure and tools needs and questions can be challenging. As part of offering access to insights, expertise, and knowledge-networking, SPNHC 2022 offers all of us a <strong>Data Help Desk</strong> modeled after other such events held at various conferences. Again, this activity is made possible through collaboration of such groups as TDWG, the SFG, TaxonWorks, Symbiota, ARCTOS, iDigBio, DiSSCo Prepare, the Specify Collections Consortium, the Museum for Naturkunde, The Botanical Research Institute of Texas, and you!</p>
+
+<p>And of course, any talk of collections digitization would not be complete without the need to share specimen determinations. Keeping up with nomenclatural acts and taxonomy relevant to your collections presents many opportunities to work together! So, SFG will be at the <strong>Community engagement workshop on the new taxonomic backbone development by Global Biodiversity Information Facility (GBIF) and Catalogue of Life (CoL)</strong> to ensure we can hear the needs of the collection and data managers worldwide. SFG team members Yury Roskov (CoL Editor) and Geoff Ower (Software Developer) contribute to CoL.</p>
+
+<p>There’s a lot more to SPNHC2022 of course! Search Twitter by the <a href="https://twitter.com/search?q=%23spnhc2022&amp;src=hashtag_click">#SPNHC2022 hashtag</a> and peruse the complete <a href="https://az659834.vo.msecnd.net/eventsairwesteuprod/production-inconference-public/b6155d79fe314c1d9179a30b3aa3e308">SPNHC 2022 Programme</a>. There’s still <a href="https://spnhc2022.com/registration/">time to register</a> so you don’t miss out!</p>]]></content><author><name>Deborah Paul, Matt Yoder</name></author><category term="event" /><summary type="html"><![CDATA[Creating virtual and hybrid meetings offer all of us, including the Species File Group opportunities for extending our communities – local to global. The Society for the Preservation of Natural History Collections SPNHC offers a hybrid joint 2022 Conference this year with International Partner – BHL (Biodiversity Heritage Library) and National Partner – NatSCA (Natural Sciences Collections Association based in the UK). Staff from the SFG, INHS, and PRI shepherd the development and use of collections both physical and digital. The annual SPNHC conference provides a venue to highlight the data, the specimens, and all that we do. Note the fitting conference theme: Through the door and through the web: releasing the power of natural history collections onsite and online SFG Activities at SPNHC2022 At the very popular SPNHC (live!) DEMO Camp, our very own Dmitry Mozzherin will do a live demonstration of software he’s built: - Global Names Architecture tools for verification, normalization, and detection of scientific names - Geoff Ower, SFG Developer, contibutes to this work as well to enhance the use of the Global Names software suite by the Biodiversity Heritage Library. If you work with, create, search for, need taxon names for your work, please check out these global names tools – your future self will be so happy. And if you want to ask for help, you can find Dmitry on the Global Names Gitter. (What’s gitter? It’s like a chat room. If you’ve got a GitHub account, it’s very simple and fun to use gitter). If twitter fits your style, find Dmitry there as @dimus and also @GlobalNames. Michelle Kohler holds the honor and our awe for being the person logging in the most hours using TW. Her insights give us the huge gift of helping us improve the software and the collaborator experience. In her talk at SPNHC 2022 co-authored with Thomas McElrath, we anticipate learning a lot about what’s great, what needs work, and maybe a peek into the future. TaxonWorks: A User’s Perspective: Digitizing a specimen start to finish Collections only happen because people gather, care for, and use these objects and data for all sorts of reasons from research to land management policy development to outreach and more. Especially with legacy collections, knowing exactly who collected or identified a specimen can be challenging (e.g. name abbreviations, very common names) but very valuable. For example, knowing who these people are, historically and at present means individuals and organizations can better track metrics of their impact in their communities and across the globe. At SPNHC 2022, SFG team-member Deborah Paul joins with Quentin Groom (Meise Botanic Garden), David Shorthouse, and Shelley James (Western Australia Herbarium) in an international setting to help collection managers discover how wikidata can be an intregral tool for working together to share people information and harness the power these data hold for good. Workshop: People are Unique, Unique People are Priceless More and more data gets collected and created everyday in addition to our huge legacy data pile in collections. We need staff, tools, skills, and infrastructure to do this work, and make best use of it. Finding help with data, data infrastructure and tools needs and questions can be challenging. As part of offering access to insights, expertise, and knowledge-networking, SPNHC 2022 offers all of us a Data Help Desk modeled after other such events held at various conferences. Again, this activity is made possible through collaboration of such groups as TDWG, the SFG, TaxonWorks, Symbiota, ARCTOS, iDigBio, DiSSCo Prepare, the Specify Collections Consortium, the Museum for Naturkunde, The Botanical Research Institute of Texas, and you! And of course, any talk of collections digitization would not be complete without the need to share specimen determinations. Keeping up with nomenclatural acts and taxonomy relevant to your collections presents many opportunities to work together! So, SFG will be at the Community engagement workshop on the new taxonomic backbone development by Global Biodiversity Information Facility (GBIF) and Catalogue of Life (CoL) to ensure we can hear the needs of the collection and data managers worldwide. SFG team members Yury Roskov (CoL Editor) and Geoff Ower (Software Developer) contribute to CoL. There’s a lot more to SPNHC2022 of course! Search Twitter by the #SPNHC2022 hashtag and peruse the complete SPNHC 2022 Programme. There’s still time to register so you don’t miss out!]]></summary></entry><entry><title type="html">Describe TaxonWorks (data model)</title><link href="http://speciesfilegroup.org/announce/2022/02/08/describe-taxonworks.html" rel="alternate" type="text/html" title="Describe TaxonWorks (data model)" /><published>2022-02-08T13:30:00-06:00</published><updated>2022-02-08T13:30:00-06:00</updated><id>http://speciesfilegroup.org/announce/2022/02/08/describe-taxonworks</id><content type="html" xml:base="http://speciesfilegroup.org/announce/2022/02/08/describe-taxonworks.html"><![CDATA[<p>In the past month or two we’ve been working on addressing some long outstanding requests to document the data model behind TaxonWorks.  We’re happy to announce that work is “done”, and available <a href="https://docs.taxonworks.org/develop/Data/">at https://docs.taxonworks.org</a>.</p>
+
+<p>Some highlights include:</p>
+
+<ul>
+  <li>An overview discussion with background and a bigger picture perspective.</li>
+  <li>Table definitions and entity-relationship (ER) visualizations for all models.</li>
+  <li>Links between documentation types (e.g. clickable nodes), that connect resources making them easily navigable.</li>
+  <li>Uses code to generate table, ER diagrams, and links throughout by inspecting the application itself. This ensures that the documentation remains in-sync with code.</li>
+</ul>
+
+<p>We’ve also outlined the various audiences that might find this documentation useful, we hope you find yourself there.</p>
+
+<p><a href="https://github.com/SpeciesFileGroup/taxonworks_doc/issues">Feedback</a> is of course welcome. A reminder that there are weekly opportunities to talk about all things TaxonWorks, including a dedicated ‘Technical’ session that is a perfect opportunity to ask more about this new documentation. See our <a href="https://speciesfilegroup.org/events.html">events</a> page.</p>
+
+<p>Happy grokking!</p>]]></content><author><name>Matt Yoder</name></author><category term="announce" /><summary type="html"><![CDATA[In the past month or two we’ve been working on addressing some long outstanding requests to document the data model behind TaxonWorks. We’re happy to announce that work is “done”, and available at https://docs.taxonworks.org.]]></summary></entry><entry><title type="html">TaxonWorks Together 2021, it’s about community</title><link href="http://speciesfilegroup.org/event/2022/02/01/taxonworks-together-2021.html" rel="alternate" type="text/html" title="TaxonWorks Together 2021, it’s about community" /><published>2022-02-01T11:30:00-06:00</published><updated>2022-02-01T11:30:00-06:00</updated><id>http://speciesfilegroup.org/event/2022/02/01/taxonworks-together-2021</id><content type="html" xml:base="http://speciesfilegroup.org/event/2022/02/01/taxonworks-together-2021.html"><![CDATA[<table>
+  <tbody>
+    <tr>
+      <td>The theme of <em>building community</em> framed <a href="https://github.com/SpeciesFileGroup/taxonworks_together_2021">TaxonWorks Together 2021 (TWT)</a>. Two plenary sessions, User Perspectives on TaxonWorks, and Building a Community Around Your Taxonomic Needs, provided our contributors and invited speakers a public forum to share and discuss their TaxonWorks (TW) experiences. Over 150 people registered and we had participants from countries around the globe.  A common theme from users was the need for public facing pages for data in their TW databases. TaxonWorks software specifically for  this purpose (i.e. purposefully separate from the database software) is now in development with a multi-year set of milestones offering specific functions being released over the next 3+ years.  Please <a href="https://github.com/SpeciesFileGroup/page/issues/new?assignees=&amp;labels=enhancement&amp;template=PANEL.yml&amp;title=%5BPanel%5D%3A+">submit your ideas for the content and function</a> of these public pages!</td>
+      <td><img src="https://sfg.taxonworks.org/s/5f5h1r" alt="" align="right" /> <img src="https://sfg.taxonworks.org/s/wv3hyv" alt="" align="right" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="guests">Guests!</h3>
+
+<p>We opened our week with a series of user perspectives. Hear directly from Chris Dietrich, Lily Hart, Jim Woolley and John Heraty, Heidi Hopkins, Kojun Kanda, Michelle Kohler, and Maria Marta Cigliano about TW from their points-of-view. <a href="https://youtu.be/K4uFati6JZ4">Their talks are available at YouTube.</a></p>
+
+<p>Our plenary speaker, Beckett Sterner (Arizon State University, <a href="https://orcid.org/0000-0001-5219-7616">https://orcid.org/0000-0001-5219-7616</a>) presented: <a href="https://github.com/SpeciesFileGroup/taxonworks_together_2021/blob/main/slides/Sterner_twt2021_TaxonWorks2021.pdf">Building a Community Around Your Taxonomic Needs</a> which stimulated a great discussion around such topics as group data curation, data pooling strategies, and ideas about what makes a community long-lived. His session is <a href="https://youtu.be/hWPhto6Qv7E">available on the TaxonWorks' YouTube</a>. Insights from this session offer that inclusiveness, collective benefit, credit and attribution are all important variables for sustainable data portals. In our <em>user perspectives</em> session, contributors noted how much they appreciate the benefit of being able to work as a group using TW. Local to global, the Species File Group builds software, tools, and a commons that support a taxonomist’s individual and collaborative workflows to use and manage complex, detailed nomenclatural, taxonomic, and specimen-related data. All of us look forward to findings from Beckett’s recently awarded NSF grant: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2122818">Explaining Differential Success in Biodiversity Knowledge Commons</a>.</p>
+
+<h3 id="why-not-excel-or-reasons-for-using-taxonworks">Why not Excel, or, reasons for using TaxonWorks?</h3>
+
+<p>One of our participants asked “why TW and not Excel?” This, and various related discussions throughout the week raised a number of reasons as to why TaxonWorks might be useful (beyond just not being Excel). Discussion highlights ("the “learning curve” is worth it") included: :</p>
+
+<ul>
+  <li>Excel limits field length, is “two-dimensional” and <em>is not</em> a database while</li>
+  <li>TW offers handling complex data
+    <ul>
+      <li>Nomenclature, distributions, literature, and biological associations</li>
+      <li>Automatic generation of taxonomic keys and taxon pages</li>
+      <li>Built-in hard and soft validation for data fitness</li>
+    </ul>
+  </li>
+  <li>TW offers collaboration, working with many folks together in the same database
+    <ul>
+      <li>5 natural history collections currently manage their data in TW
+        <ul>
+          <li>DwC Archive import and export is quickly making TW a compelling digitization solution</li>
+          <li>People with loans can digitize and return data for integration or receive digitized data with specimens</li>
+        </ul>
+      </li>
+      <li>Remote team-work during the pandemic</li>
+      <li>High-school students entering data</li>
+      <li>TW allows for the distribution of tasks, projects that once depended on one person, now can be done by many. The Universal Chalcid Database curators manage data from over 58K sources.</li>
+      <li>Private community curation has positive aspects</li>
+      <li>Participants noted the sharing of some data across TW projects, for example sources (i.e. literature), people data, and some geo data.</li>
+    </ul>
+  </li>
+  <li>TW development team
+    <ul>
+      <li>Responsive and data standards aware</li>
+      <li>Long-term funding support for TW</li>
+      <li>Listens to the needs of the community but also</li>
+      <li>Educates users if there’s a better practice</li>
+      <li>Willingness to customize where feasible</li>
+      <li>Individuals can to add custom fields (more suitable and less lossy than “notes”)</li>
+    </ul>
+  </li>
+  <li>TW software
+    <ul>
+      <li>A tool that is open and not proprietary</li>
+      <li>Makes data sharing easier and more sustainable in the short and long term</li>
+      <li>Allows anyone worldwide to contribute to the features and functions of the software and API
+|</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="darwin-core">Darwin Core</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Another exciting activity during the week offered us a chance to show our newly released Darwin Core Importer. With this tool, you can use your DwC-A file (or just the occurrence.txt file) to upload data into TW. Features and functions are being added and input for and testing of this new function welcome! During our BBQ, all were introduced to GitHub, and we learned a few new tricks and some software development etiquette about emojis (e.g. use them to provide feedback on comments). In our digitization session, Tommy McElrath showed us the power of several key features such as the Comprehensive Digitization (all relevant fields in one screen) and the TW “grid digitizer” (at right). And just-in-time for TWT Tommy created <a href="https://www.youtube.com/playlist?list=PLPSu6w4rwUI4FZwZ5lw43XbBkiD4Iuy91">a new video series about Digitization Using TW</a>.</td>
+      <td><img src="https://sfg.taxonworks.org/s/7967z6" alt="" align="right" height="300px" /></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="nomenclature">Nomenclature</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td>TaxonWorks manages nomenclature distinctly separate from the descriptions of those things being named. In the Nomenclature session moderated by Dmitry Dmitriev, several speakers talked about their experiences with TW to manage large nomenclatural resources, for example, the LepIndex and Universal Chalcidoidea Database (UCD). Jim Wooley walked us through how the UCD group collectively manages data from 58K sources (aka publications) in TaxonWorks. Donald Hobern noted that LepIndex needs structured sustained community curation and some enhanced TW features to make it easier to improve the LepIndex dataset in subsets (e.g. by family). Several people note that often multiple nomenclatural lists may exist and would like to see more tools that make it possible to share more of the common data where desired / feasible / and logical to improve taxonomic workflows.</td>
+      <td><img src="https://sfg.taxonworks.org/s/wnud8p" alt="" align="right" height="300px" /></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="matrices">Matrices</h3>
+<p>During the session on Matrices we heard from Sergei Tarasov and Kojun Kanda. Sergei is working to integrate Phenoscript with TW. Phenoscript is the first programming language for describing species (see <a href="https://github.com/sergeitarasov/PhenoScript/wiki">https://github.com/sergeitarasov/PhenoScript/wiki</a>). In all collaboration, somehow you need to track progress, yes? Kojun cleverly recognized that the matrices software can be used to do this and showed us how.</p>
+
+<h3 id="technical">Technical</h3>
+
+<p>At the Technical session “It’s Developer Time”, programmers and users covered a wide range of topics. Live-coding in Ruby happened to fix and execute a script needed for querying the TW API. We heard about the User Interface (UI) and User Experience (UX) from users who would like some different options for roles and permissions as well as options to customize the UI including a customized workflow. Our Global Names developer, Dmitry Mozzherin heard that users would like to be able to compare (“do a diff”) across 2 or more taxonomic name checklists. He's built <a href="https://github.com/gnames/gndiff">gndiff</a> as a response. Another researcher uses the research-grade images coming from iNaturalist, and wants to pull them into TaxonWorks via the iNat API. And for those who want to jump in to help code the UI/UX of TW, developer José Luis Pereira produced a great video to get you started! See <a href="https://www.youtube.com/watch?v=IC5nGkMFJEI">Using VueJS with TaxonWorks</a>, part 1 on the TW YouTube.</p>
+
+<h3 id="connect-with-us">Connect with us</h3>
+<p>Throughout TWT we reiterated the ways to connect with us. As part of our commons, we’re connected 24/7/365 via GitHub and Gitter, and of course at our weekly sessions on Wednesdays. For 2022 we updated <a href="https://speciesfilegroup.org/events.html">our weekly meeting</a> topics to: Nomenclature, Digitization, Matrices/Observations, Technical, and Open (where any topic is welcome). Please join us! It’s easy (see information under <em>Current</em> on the <a href="https://speciesfilegroup.org/events.html">Events</a> page for details).</p>
+
+<p>To revisit, or in case you missed it, you’ll find the meeting materials linked on <a href="https://github.com/SpeciesFileGroup/taxonworks_together_2021">the event page</a> and some <a href="https://www.youtube.com/channel/UCKNr7QYwvVFcRfQAcMEAhLw">recordings on YouTube</a>.</p>
+
+<h3 id="coming-soon-on-propodeum">Coming soon on <em>Propodeum</em></h3>
+
+<p>We’ve had multiple requests (before and during TWT) for details of the underlying data models behind TaxonWorks. Great news! With a lot of hard work on the part of the TaxonWorks developers, these details are coming to light. You can get a sneak peak (though changes are certain) at <a href="https://docs.taxonworks.org">docs.taxonworks.org</a>.</p>
+
+<h3 id="links">Links</h3>
+
+<ul>
+  <li><a href="https://github.com/SpeciesFileGroup/taxonworks_together_2021">TaxonWorks Together 2021 event page</a></li>
+  <li><a href="https://www.youtube.com/channel/UCKNr7QYwvVFcRfQAcMEAhLw">Recordings on TaxonWorks YouTube</a></li>
+  <li><a href="https://github.com/SpeciesFileGroup/taxonworks_together_2022">Add your ideas for TWT 2022</a></li>
+  <li><a href="https://docs.taxonworks.org/">https://docs.taxonworks.org</a></li>
+</ul>]]></content><author><name>Deborah Paul, Matt Yoder</name></author><category term="event" /><summary type="html"><![CDATA[The theme of building community framed TaxonWorks Together 2021 (TWT). Two plenary sessions, User Perspectives on TaxonWorks, and Building a Community Around Your Taxonomic Needs, provided our contributors and invited speakers a public forum to share and discuss their TaxonWorks (TW) experiences. Over 150 people registered and we had participants from countries around the globe. A common theme from users was the need for public facing pages for data in their TW databases. TaxonWorks software specifically for this purpose (i.e. purposefully separate from the database software) is now in development with a multi-year set of milestones offering specific functions being released over the next 3+ years. Please submit your ideas for the content and function of these public pages!]]></summary></entry><entry><title type="html">Welcome to Propodeum, a blog from the Species File Group and collaborators</title><link href="http://speciesfilegroup.org/announce/2022/01/20/welcome-to-propodeum.html" rel="alternate" type="text/html" title="Welcome to Propodeum, a blog from the Species File Group and collaborators" /><published>2022-01-20T09:30:00-06:00</published><updated>2022-01-20T09:30:00-06:00</updated><id>http://speciesfilegroup.org/announce/2022/01/20/welcome-to-propodeum</id><content type="html" xml:base="http://speciesfilegroup.org/announce/2022/01/20/welcome-to-propodeum.html"><![CDATA[<p>We’ve long discussed a place to post writings from the Species File Group (SFG), here it is. We realize it takes time to make this type of thing work, we’ll take it slow, and see how it goes. We’ll announce new posts on Twitter at <a href="https://twitter.com/sppfilegroup">@sppfilegroup</a>.</p>
+
+<p>The scope might include (but is not limited to):
+* Informal musing on the nature of biodiveristy informatics
+* Guest posts on the same 
+* Links (ping us!) to blog or podcast postings you/we think others will find interesting
+* Updates from <a href="/events.html">events</a> such as <code class="language-plaintext highlighter-rouge">TaxonWorks Together</code>
+* Occasional news on SFG projects</p>
+
+<p>You might be asking, “why <em>propodeum</em>”!? The term references a bit of anatomy found in some groups of Hymenopterans (the bees, wasps and ants). It turns out that as historically used the term is a homonym, that is, it is used to refer to a structure that from the outside looks similar across species, but upon closer examination, is not. The spirit of this blog is to emulate the process that leads to the (ongoing) understanding of the nature of the “propodeum”, to write about things in an effort to tease out an understanding of their nature and diversity. Furthermore it sounds like “pro” (expressing in a positive manner) “podium” (stage), a nice place to speak from, yes, we’re grasping. It also sounds kind of cool.</p>]]></content><author><name>Matt Yoder, Deborah Paul</name></author><category term="announce" /><summary type="html"><![CDATA[We’ve long discussed a place to post writings from the Species File Group (SFG), here it is. We realize it takes time to make this type of thing work, we’ll take it slow, and see how it goes. We’ll announce new posts on Twitter at @sppfilegroup.]]></summary></entry></feed>
