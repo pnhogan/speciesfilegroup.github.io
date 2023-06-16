@@ -53,7 +53,7 @@ Questions, concerns, and suggestions for improvement to this document, and any o
 # FAQ
 
 ## Does the SFG charge for use of https://sfg.taxonworks.org?
-No. This is an open collaboration, in turn the **SFG** hopes that our collaborating **scientists** will help [contribute back to the community](https://github.com/SpeciesFileGroup/taxonworks_doc/blob/master/CONTRIBUTING.md).
+No. This is an open collaboration, in turn the **SFG** hopes that our collaborating **scientists** will help [contribute back to the community](https://docs.taxonworks.org/develop/contributing.html).
 
 ## Will the SFG ever charge for use of https://sfg.taxonworks.org?
 As an endowed group we hope to do as much as we can to support the global biodiversity informatics community with the resources and people we have. As our collaborators grow we would be naive to not be realistic about the costs of these collaborations. 
