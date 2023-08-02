@@ -21,7 +21,7 @@ _How do we care for vast quantities of physical specimens and data indefinitely?
 * Johanna Schwartz, Graduate Student, Department of Entomology, UIUC
 * Jared Martin, Graduate Student, Department of Entomology, UIUC
 
-# Introduction to the ECN Management Workshop
+# Introduction
 Some of the glamour (hopefully?) associated with being a field entomologist is our ability to collect insects from across the globe. 
 However, what happens to an insect after it has been collected is largely unknown to the larger public, and yet this life after death for the insect takes an overwhelming portion of an entomologist’s workload. 
 Permanent storage of both the collected specimens and related data are vitally important to biological research including taxonomic revisions, to understanding how species are affected by climate change (Arce et al., 2022), 
@@ -47,8 +47,8 @@ Another example of a small detail making a huge difference is found in what was 
 
 <div style="float: left; margin; 1em;">
 <figure>
-<img src="https://sfg.taxonworks.org/s/qtmgzz" title="Learning how to package specimens properly<br/>from Dave Furth. Photo by L. Hart." alt="Learning how to package specimens properly from Dave Furth. Photo by L. Hart." width="300px">
-<figcaption>Learning how to package specimens properly from Dave Furth. Photo by L. Hart.</figcaption>
+<img src="https://sfg.taxonworks.org/s/qtmgzz" title="Learning how to package specimens properly from Dave Furth. Photo by L. Hart." alt="Learning how to package specimens properly from Dave Furth. Photo by L. Hart." width="300px">
+<figcaption>Learning how to package specimens properly <br/>from Dave Furth. Photo by L. Hart.</figcaption>
 </figure>
 </div>
 
@@ -58,7 +58,7 @@ While looking at rows upon rows of cabinets holding specimens, going through eac
 <div style="float: left; margin; 1em;">
 <figure>
 <img src="https://sfg.taxonworks.org/s/mt0suh" title="Profiling collections, drawer by drawer, to get an estimate of how much empty space is available in each cabinet. Photo by Michael Caballero, University of Texas at Austin." alt="Profiling collections, drawer by drawer, to get an estimate of how much empty space is available in each cabinet. Photo by Michael Caballero, University of Texas at Austin." width="300px">
-<figcaption>Profiling collections, drawer by drawer, to get an estimate of how much empty space is available in each cabinet.<br/> Photo by Michael Caballero, University of Texas at Austin.</figcaption>
+<figcaption>Profiling collections, drawer by drawer, to get<br/>an estimate of how much empty space is available in each cabinet.<br/> Photo by Michael Caballero, University of Texas at Austin.</figcaption>
 </figure>
 </div>
 
