@@ -10,18 +10,18 @@ _How do we care for vast quantities of physical specimens and data indefinitely?
 
 <div style="float: right; margin: 1em;">
 <figure>
-    <img src="https://sfg.taxonworks.org/s/opaxyl" title="Group photo of participants of the Entomological Collections Management Workshop 2023. 
-      Photo by Rick Whereley, Cleveland Museum of Natural History” alt="Group photo of participants of the Entomological Collections Management Workshop 2023. Photo by Rick Whereley, Cleveland Museuem of Natural History"  width=”800px”>  
+    <img src="https://sfg.taxonworks.org/s/opaxyl" title="Group photo of participants of the Entomological Collections Management Workshop 2023. Photo by Rick Whereley, Cleveland Museum of Natural History" alt="Group photo of participants of the Entomological Collections Management Workshop 2023. Photo by Rick Whereley, Cleveland Museuem of Natural History" width="800px">  
     <figcaption>Group photo of participants at the Entomological Collections Management Workshop 2023. Photo by: Rick Whereley, Cleveland Museum of Natural History.</figcaption>
 </figure>
 </div>
 <div style="clear:both;"></div>
 
 ### Authors 
-* Phillip Hogan, Graduate Student, Department of Entomology, UIUC, [https://orcid.org/0000-0002-6546-272X](https://orcid.org/0000-0002-6546-272X), <a href=”mailto:pnhogan2@illinois.edu”>Email</a>
+* Phillip Hogan, Graduate Student, Department of Entomology, UIUC, [https://orcid.org/0000-0002-6546-272X](https://orcid.org/0000-0002-6546-272X), <a href="mailto:pnhogan2@illinois.edu">Email</a>
 * Lily Hart, Insect Collection Assistant, INHS, [https://orcid.org/0000-0002-2906-1849](https://orcid.org/0000-0002-2906-1849), <a href=”mailto:lvhart2@illinois.edu”>Email</a>
 * Johanna Schwartz, Graduate Student, Department of Entomology, UIUC
 * Jared Martin, Graduate Student, Department of Entomology, UIUC
+
 # Introduction to the ECN Management Workshop
 Some of the glamor (hopefully?) associated with being a field entomologist is our ability to collect insects from across the globe. 
 However, what happens to an insect after it has been collected is largely unknown to the larger public, and yet this life after death for the insect takes an overwhelming portion of an entomologist’s workload. 
@@ -34,8 +34,11 @@ Three jam-packed days of entomological information headed by David Furth and Flo
 such as ourselves to the forefront of museum curation by sharing their combined decades of experience. During these three days, we covered a wide variety of subjects which we hope to cover in this blog post. 
 In brief, the main ideas of the workshop can be summarized through preparation, standardization, evaluation, and digitization. While many in-depth ideas and practices were shared with students, the aforementioned themes were widely used. 
 Below we try to summarize these main points.
+
+
 ## Preparation
 First, laying the groundwork for the operations of entomological collections was demonstrated as a priority for all institutions, with the primary objective being the formation of a well-thought-out collection management policy that provides a directive of the mission, objectives, and purpose of the collection. Without this primary step, institutions can be at a loss when disaster strikes, lack the proper direction when a new obstacle is presented such as the donation of a large collection, or lose years of accumulated knowledge with the unfortunate retirement or the untimely death of a collection curator or manager. Having a written policy and procedure provides directives in uncertain times and allows smooth day-to-day operations. One point stressed during the workshop is that everyone involved in collection activities should have access to the collection mission statement, vision, procedure, and policies. The ideology behind this point is that there should be a uniform understanding among staff of how the collection is managed and therefore if an issue arises, it can be dealt with in a timely manner.
+
 ## Standardization
 Standardization may seem like no big deal, but when dealing with tens or hundreds of thousands plus specimens, this can become a daunting task. Using a single standardized setup allows for easier integration of specimens in the long run, reduces search time when retrieving specimens, and aids in quick profiling (more on that later) for each storage unit (Favret et al., 2007). Standardization (in entomological collections) is a dynamic and important topic that applies to the physical collection of insects as well as the data associated with them. For example, students collect voucher specimens pertaining to their thesis that go missing, disregarded, or are discarded after their studies conclude and the students leave their institution. One of the objectives of the workshop was to teach students the best practices for vouchering specimens associated with their research so that insect collections can readily accept said specimens. Standards in preparation call for the specimens to be pinned or mounted with the correct pins, wet specimens to be housed in the correct vials with the correct concentration of preservation fluid, and even slides to be kept in secure boxes parallel to the floor so as not to allow the mounting medium to migrate over time. Things one doesn’t think about such as climate, dust, and vibrations need to be accounted for and variation minimized if possible. Yes, this level of micromanagement is necessary, especially as variations in temperature, humidity, and vibrations within the building where collections are housed accumulate over time leading to pest infestations and/or damaged specimens. How can a natural history museum preserve the regional flora and fauna if its collections are being decimated due to someone’s lack of foresight to control environmental variables? 
 During this workshop, it was ingrained into our heads that the small details make a huge difference over time. One example of small details making a world of a difference is when preparing to move a collection across a building or even across a country. Here, planning out every detail, from routes to be taken to the construction of the cart can have significant impacts. One example given during the workshop is the movement of collections across town between previous institutions and the newly built Steinhardt Museum of Natural History in Tel Aviv, Israel, where air-filled tires in hand-pushed carts allowed the low-impact transportation of many hundreds of thousands of pinned insects without damage. That small detail, ensuring air-filled tires, certainly preserved specimens for future use by preventing undue vibrations from movement caused by solid rubber tires. Without careful forethought, one may have transported all their specimens using non-vibration resistant tires, only to find their specimens decimated on the receiving end.
@@ -43,7 +46,7 @@ Another example of a small detail making a huge difference is found in what was 
 
 <div style="float: left; margin; 1em;">
 <figure>
-<img src="https://sfg.taxonworks.org/s/qtmgzz" title="Learning how to package specimens properly from Dave Furth. Photo by L. Hart." alt="Learning how to package specimens properly from Dave Furth. Photo by L. Hart." width=“300px”>
+<img src="https://sfg.taxonworks.org/s/qtmgzz" title="Learning how to package specimens properly from Dave Furth. Photo by L. Hart." alt="Learning how to package specimens properly from Dave Furth. Photo by L. Hart." width="300px">
 <figcaption>Learning how to package specimens properly from Dave Furth. Photo by L. Hart.</figcaption>
 </figure>
 </div>
@@ -53,14 +56,13 @@ Another example of a small detail making a huge difference is found in what was 
 ## Evaluation
 While looking at rows upon rows of cabinets holding specimens, going through each one to find any specimen issues can seem like a daunting task. This is where profiling natural history collections comes into play. Profiling is the process in which museum curators assess the health of their collections by identifying locations (e.g., cabinets, drawers, unit trays) that should be prioritized for management actions. In the case of a museum curator that oversees large volumes of biological specimens, prioritizing which areas of the collection need management actions is a must. When following a McGinley profiling scale (McGinley, 1990), some things, like evidence of a dermestid beetle, require immediate attention and quarantine. Other things noted in profiling are less prioritized but still require a thorough review. For example, some specimens may not be identified to a level where they are useful to taxonomic experts which hinders their full integration into the collection. All of this saves time for collection managers and curators by prioritizing which regions need action immediately, and which require prolonged attention. For us students, this may have been the most difficult hands-on activity to work through. 
 
-<div style=”float: left; margin; 1em;”>
+<div style="float: left; margin; 1em;">
 <figure>
-<img src="https://sfg.taxonworks.org/s/mt0suh" title="Profiling collections, drawer by drawer, to get an estimate of how much empty space is available in each cabinet. Photo by Michael Caballero, University of Texas at Austin." 
-  alt="Profiling collections, drawer by drawer, to get an estimate of how much empty space is available in each cabinet. Photo by Michael Caballero, University of Texas at Austin." width=“300px”>
+<img src="https://sfg.taxonworks.org/s/mt0suh" title="Profiling collections, drawer by drawer, to get an estimate of how much empty space is available in each cabinet. Photo by Michael Caballero, University of Texas at Austin." alt="Profiling collections, drawer by drawer, to get an estimate of how much empty space is available in each cabinet. Photo by Michael Caballero, University of Texas at Austin." width="300px">
 <figcaption>Profiling collections, drawer by drawer, to get an estimate of how much empty space is available in each cabinet. Photo by Michael Caballero, University of Texas at Austin.</figcaption>
 </figure>
 </div>
-<div style=”clear:both;”></div>
+<div style="clear:both;"></div>
 
 ## Digitization
 Attention to detail is vital to insect specimens, and the same is vital for their data. As we enter a new age of bioinformatics, rigorous standards must be met when entering data for insect specimens that are used in research. The use of a relational database helps to organize specimens so you not only know what you have, but also who, where, and when they were collected, and even the research that is produced from the specimen at hand. All of which demonstrate the importance of relational databases in natural history museums. Data extracted from those databases is now often sent to global aggregators, such as the Global Biodiversity Information Facility (GBIF), to create a global network of biodiversity data. The standardization of specimen data comes into play here since you need it to fit a certain format (e.g., DarwinCore) in order to integrate it into new networks. You don’t want to spend days “cleaning” your data to get it ready for migration. Instead, it would be more cost and time efficient if you would have it set to certain, predetermined standards to begin with. This conversation of data standards and data cleaning is tricky to tackle in a group where many institutions rarely use the same relational database. The adage teaching old dogs new tricks comes into mind here where many taxonomists and researchers have become so ingrained into their current methods of data entry that trying something new is next to impossible. But, as the field has shifted to more accessibility within collections, we find it a necessity to add to the larger conversation of data carpentry and the need for more training in this field for all members of natural history museums. It is important to remember that species records and other data tucked away within closed field notebooks and hidden spreadsheets cannot advance science.
@@ -81,6 +83,7 @@ and a specimen whose value is recognized by the scientific community, with data 
 In a period of time when extinct species are increasingly being found in natural history collections as extinctions are occurring at a faster rate than previously during human record-keeping, 
 the preservation and curation of natural history museums are of utmost importance. 
 Keeping an unbiased and protected record of our past where species’ locations across temporal periods are preserved immortally allows future generations the opportunity to view, handle, and even describe the biodiversity on this planet. 
+
 # References:
 Arce A.N., Cantwell-Jones A., Tansely M., Barnes I., Brance S., Mullin V.E., Notton D., Ollerton J., Eatough E., Rhodes M.W., Bian X., Hogan J., Hunter T., Jackson S., Whiffin A., Blagoderov V., Broad G., Judd S., Kokkini P., Livermore L., Dixit M.K., Pearse W.D., & R.J. Gill. 2022. Signatures of increasing environmental stress in bumblebee wings over the past century: Insights from museum specimens. _Journal of Animal Ecology._ 92: 297–309. [https://doi.org/10.1111/1365-2656.13788](https://doi.org/10.1111/1365-2656.13788)
 
