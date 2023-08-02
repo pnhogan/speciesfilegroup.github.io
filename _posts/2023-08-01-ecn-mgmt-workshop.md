@@ -64,7 +64,7 @@ While looking at rows upon rows of cabinets holding specimens, going through eac
 
 ## Digitization
 
-<div>
+<p>
 <figure style="float: right;  margin-left: 1em; margin-top: 1em; margin-right: 0em; width: 300px">
   <img 
     src="https://sfg.taxonworks.org/s/mt0suh" 
@@ -76,7 +76,7 @@ While looking at rows upon rows of cabinets holding specimens, going through eac
 </figure>
 Attention to detail is vital to insect specimens, and the same is vital for their data. As we enter a new age of bioinformatics, rigorous standards must be met when entering data for insect specimens that are used in research. The use of a relational database helps to organize specimens so you not only know what you have, but also who, where, and when they were collected, and even the research that is produced from the specimen at hand. All of which demonstrate the importance of relational databases in natural history museums. Data extracted from those databases is now often sent to global aggregators, such as the Global Biodiversity Information Facility (GBIF), to create a global network of biodiversity data. The standardization of specimen data comes into play here since you need it to fit a certain format (e.g., DarwinCore) in order to integrate it into new networks. You don’t want to spend days “cleaning” your data to get it ready for migration. Instead, it would be more cost and time efficient if you would have it set to certain, predetermined standards to begin with. This conversation of data standards and data cleaning is tricky to tackle in a group where many institutions rarely use the same relational database. The adage teaching old dogs new tricks comes into mind here where many taxonomists and researchers have become so ingrained into their current methods of data entry that trying something new is next to impossible. But, as the field has shifted to more accessibility within collections, we find it a necessity to add to the larger conversation of data carpentry and the need for more training in this field for all members of natural history museums. It is important to remember that species records and other data tucked away within closed field notebooks and hidden spreadsheets cannot advance science.
 
-</div>
+</p>
 
 # Individual Viewpoints
 
