@@ -47,7 +47,7 @@ Another example of a small detail making a huge difference is found in what was 
 
 <div style="float: left; margin; 1em;">
 <figure>
-<img src="https://sfg.taxonworks.org/s/qtmgzz" title="Learning how to package specimens properly from Dave Furth. Photo by L. Hart." alt="Learning how to package specimens properly from Dave Furth. Photo by L. Hart." width="300px">
+<img src="https://sfg.taxonworks.org/s/qtmgzz" align="right" title="Learning how to package specimens properly from Dave Furth. Photo by L. Hart." alt="Learning how to package specimens properly from Dave Furth. Photo by L. Hart." width="300px">
 <figcaption>Learning how to package specimens properly <br/>from Dave Furth. Photo by L. Hart.</figcaption>
 </figure>
 </div>
@@ -55,9 +55,10 @@ Another example of a small detail making a huge difference is found in what was 
 ## Evaluation
 While looking at rows upon rows of cabinets holding specimens, going through each one to find any specimen issues can seem like a daunting task. This is where profiling natural history collections comes into play. Profiling is the process in which museum curators assess the health of their collections by identifying locations (e.g., cabinets, drawers, unit trays) that should be prioritized for management actions. In the case of a museum curator that oversees large volumes of biological specimens, prioritizing which areas of the collection need management actions is a must. When following a McGinley profiling scale (McGinley, 1990), some things, like evidence of a dermestid beetle, require immediate attention and quarantine. Other things noted in profiling are less prioritized but still require a thorough review. For example, some specimens may not be identified to a level where they are useful to taxonomic experts which hinders their full integration into the collection. All of this saves time for collection managers and curators by prioritizing which regions need action immediately, and which require prolonged attention. For us students, this may have been the most difficult hands-on activity to work through. 
 
+
 <div style="float: left; margin; 1em;">
 <figure>
-<img src="https://sfg.taxonworks.org/s/mt0suh" title="Profiling collections, drawer by drawer, to get an estimate of how much empty space is available in each cabinet. Photo by Michael Caballero, University of Texas at Austin." alt="Profiling collections, drawer by drawer, to get an estimate of how much empty space is available in each cabinet. Photo by Michael Caballero, University of Texas at Austin." width="300px">
+<img src="https://sfg.taxonworks.org/s/mt0suh" align="right" title="Profiling collections, drawer by drawer, to get an estimate of how much empty space is available in each cabinet. Photo by Michael Caballero, University of Texas at Austin." alt="Profiling collections, drawer by drawer, to get an estimate of how much empty space is available in each cabinet. Photo by Michael Caballero, University of Texas at Austin." width="300px">
 <figcaption>Profiling collections, drawer by drawer, to get<br/>an estimate of how much empty space is available in each cabinet.<br/> Photo by Michael Caballero, University of Texas at Austin.</figcaption>
 </figure>
 </div>
