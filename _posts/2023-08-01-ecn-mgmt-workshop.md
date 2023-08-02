@@ -1,10 +1,11 @@
-- - 
+---
 layout: post  
 title: "Entomological Collections Management Workshop 2023: an exemplar of natural history museum best practices"  
 author: Phillip Hogan, Lily Hart, Johanna Schwartz, Jared Martin  
 date: 2023-08-01 14:00:00 -0500  
 categories: announce  
-- - 
+---
+
 _How do we care for vast quantities of physical specimens and data indefinitely? Four INHS staff and UIUC students traveled to Cleveland to find out._
 
 <div style="float: right; margin: 1em;">
