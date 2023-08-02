@@ -17,7 +17,7 @@ _How do we care for vast quantities of physical specimens and data indefinitely?
 
 ### Authors 
 * Phillip Hogan, Graduate Student, Department of Entomology, UIUC, [https://orcid.org/0000-0002-6546-272X](https://orcid.org/0000-0002-6546-272X), <a href="mailto:pnhogan2@illinois.edu">Email</a>
-* Lily Hart, Insect Collection Assistant, INHS, [https://orcid.org/0000-0002-2906-1849](https://orcid.org/0000-0002-2906-1849), <a href=”mailto:lvhart2@illinois.edu”>Email</a>
+* Lily Hart, Insect Collection Assistant, INHS, [https://orcid.org/0000-0002-2906-1849](https://orcid.org/0000-0002-2906-1849), <a href="mailto:lvhart2@illinois.edu">Email</a>
 * Johanna Schwartz, Graduate Student, Department of Entomology, UIUC
 * Jared Martin, Graduate Student, Department of Entomology, UIUC
 
@@ -47,7 +47,7 @@ Another example of a small detail making a huge difference is found in what was 
 
 <div style="float: left; margin; 1em;">
 <figure>
-<img src="https://sfg.taxonworks.org/s/qtmgzz" title="Learning how to package specimens properly from Dave Furth. Photo by L. Hart." alt="Learning how to package specimens properly from Dave Furth. Photo by L. Hart." width="300px">
+<img src="https://sfg.taxonworks.org/s/qtmgzz" title="Learning how to package specimens properly<br/>from Dave Furth. Photo by L. Hart." alt="Learning how to package specimens properly from Dave Furth. Photo by L. Hart." width="300px">
 <figcaption>Learning how to package specimens properly from Dave Furth. Photo by L. Hart.</figcaption>
 </figure>
 </div>
@@ -58,7 +58,7 @@ While looking at rows upon rows of cabinets holding specimens, going through eac
 <div style="float: left; margin; 1em;">
 <figure>
 <img src="https://sfg.taxonworks.org/s/mt0suh" title="Profiling collections, drawer by drawer, to get an estimate of how much empty space is available in each cabinet. Photo by Michael Caballero, University of Texas at Austin." alt="Profiling collections, drawer by drawer, to get an estimate of how much empty space is available in each cabinet. Photo by Michael Caballero, University of Texas at Austin." width="300px">
-<figcaption>Profiling collections, drawer by drawer, to get an estimate of how much empty space is available in each cabinet. Photo by Michael Caballero, University of Texas at Austin.</figcaption>
+<figcaption>Profiling collections, drawer by drawer, to get an estimate of how much empty space is available in each cabinet.<br/> Photo by Michael Caballero, University of Texas at Austin.</figcaption>
 </figure>
 </div>
 
