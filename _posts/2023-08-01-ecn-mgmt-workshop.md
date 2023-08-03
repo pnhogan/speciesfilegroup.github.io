@@ -115,6 +115,5 @@ Keeping an unbiased and protected record of our past where species’ locations 
 
 # Acknowledgements
 
-We would like to thank David Furth, Floyd Shockley, Nicole Gunter (Cleveland Museum of Natural History), Jennifer Zaspel (Milwaukee Public Museum), as well as all the individuals who worked behind the scenes to make this workshop a success.
-
+We would like to thank David Furth, Floyd Shockley, Nicole Gunter (Cleveland Museum of Natural History), Jennifer Zaspel (Milwaukee Public Museum), as well as all the individuals who worked behind the scenes to make this workshop a success. Thanks also to additional funding support from the [Species File Group](https://speciesfilegroup.org/) to assist in defraying our travel costs.
 ___
