@@ -13,7 +13,7 @@ _How do we care for vast quantities of physical specimens and data indefinitely?
     <img 
         src="https://sfg.taxonworks.org/s/y1zz2j" 
         title="Group photo of participants of the Entomological Collections Management Workshop 2023. Photo by Rick Whereley, Cleveland Museum of Natural History" 
-        alt="Group photo of participants of the Entomological Collections Management Workshop 2023. Photo by Rick Whereley, Cleveland Museuem of Natural History" width="400px"
+        alt="Group photo of participants of the Entomological Collections Management Workshop 2023. Photo by Rick Whereley, Cleveland Museuem of Natural History" width="500px"
     >  
     <figcaption>Group photo of participants at the Entomological Collections Management Workshop 2023. <br/>Photo by: Rick Whereley, Cleveland Museum of Natural History.</figcaption>
 </figure>
