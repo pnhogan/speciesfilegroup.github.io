@@ -6,14 +6,14 @@ date: 2023-08-01 14:00:00 -0500
 categories: announce
 ---
 
-_How do we care for vast quantities of physical specimens and data indefinitely? Four INHS staff and UIUC students traveled to Cleveland to find out._
+_How do we care for vast quantities of physical specimens (and data) indefinitely? Recently, several INHS staff and UIUC students traveled to Cleveland, Ohio to find out. Over three days, we covered the ins and outs of collection management techniques, explored a new collection space in construction, and watched new tools of the trade in use. Here we share a tidbit of what we learned and our opinions._
 
 <div style="float: right; margin: 1em;">
 <figure>
     <img 
         src="https://sfg.taxonworks.org/s/y1zz2j" 
         title="Group photo of participants of the Entomological Collections Management Workshop 2023. Photo by Rick Whereley, Cleveland Museum of Natural History" 
-        alt="Group photo of participants of the Entomological Collections Management Workshop 2023. Photo by Rick Whereley, Cleveland Museuem of Natural History" width="500px"
+        alt="Group photo of participants of the Entomological Collections Management Workshop 2023. Photo by Rick Whereley, Cleveland Museuem of Natural History" width="600px"
     >  
     <figcaption>Group photo of participants at the Entomological Collections Management Workshop 2023. <br/>Photo by: Rick Whereley, Cleveland Museum of Natural History.</figcaption>
 </figure>
@@ -27,6 +27,7 @@ _How do we care for vast quantities of physical specimens and data indefinitely?
 - Jared Martin, Graduate Student, Department of Entomology, UIUC
 
 # Introduction
+
 
 Some of the glamour (hopefully?) associated with being a field entomologist is our ability to collect insects from across the globe.
 However, what happens to an insect after it has been collected is largely unknown to the larger public, and yet this life after death for the insect takes an overwhelming portion of an entomologist’s workload.
@@ -104,12 +105,14 @@ Keeping an unbiased and protected record of our past where species’ locations 
 
 # References:
 
-Arce A.N., Cantwell-Jones A., Tansely M., Barnes I., Brance S., Mullin V.E., Notton D., Ollerton J., Eatough E., Rhodes M.W., Bian X., Hogan J., Hunter T., Jackson S., Whiffin A., Blagoderov V., Broad G., Judd S., Kokkini P., Livermore L., Dixit M.K., Pearse W.D., & R.J. Gill. 2022. Signatures of increasing environmental stress in bumblebee wings over the past century: Insights from museum specimens. _Journal of Animal Ecology._ 92: 297–309. [https://doi.org/10.1111/1365-2656.13788](https://doi.org/10.1111/1365-2656.13788)
+* Arce A.N., Cantwell-Jones A., Tansely M., Barnes I., Brance S., Mullin V.E., Notton D., Ollerton J., Eatough E., Rhodes M.W., Bian X., Hogan J., Hunter T., Jackson S., Whiffin A., Blagoderov V., Broad G., Judd S., Kokkini P., Livermore L., Dixit M.K., Pearse W.D., & R.J. Gill. 2022. Signatures of increasing environmental stress in bumblebee wings over the past century: Insights from museum specimens. _Journal of Animal Ecology._ 92: 297–309. [https://doi.org/10.1111/1365-2656.13788](https://doi.org/10.1111/1365-2656.13788)
+* Favret C., Cummings K.S., McGinley R.J., Heske E.J., Johnson K.P., Phillips C.A., Phillippe L.R., Retzer M.E., Taylor C.A., & M.J. Wetzel. 2007. Profiling natural history collections: a method for quantitative and comparative health assessment. _Collection Forum._ 22: 53–65.
+* McGinley R.J. 1990. Entomological collection management - Are we really managing? _Association of Systematics Collections Newsletter._ 18: 30–31.
+* Pyke G.H & P.R. Ehrlich. 2010. Biological collections and ecological/environmental research: a review, some observations and a look to the future. _Biological Reviews._ 85: 247–266. [https://doi.org/10.1111/j.1469-185X.2009.00098.x](https://doi.org/10.1111/j.1469-185X.2009.00098.x)
+* Shultz A.J., Adams B.J., Bell K.C., Ludt W.B., Pauly G.B., & J.E. Vendetti. 2021. Natural history collections are critical resources for contemporary and future studies of urban evolution. _Evolutionary Applications._ 14: 233–247. [https://doi.org/10.1111/eva.13045](https://doi.org/10.1111/j.1469-185X.2009.00098.x)
 
-Favret C., Cummings K.S., McGinley R.J., Heske E.J., Johnson K.P., Phillips C.A., Phillippe L.R., Retzer M.E., Taylor C.A., & M.J. Wetzel. 2007. Profiling natural history collections: a method for quantitative and comparative health assessment. _Collection Forum._ 22: 53–65.
+# Acknowledgements
 
-McGinley R.J. 1990. Entomological collection management - Are we really managing? _Association of Systematics Collections Newsletter._ 18: 30–31.
+We would like to thank David Furth, Floyd Shockley, Nicole Gunter, Jennifer Zaspel, as well as all the individuals who worked behind the scenes to make this workshop a success.
 
-Pyke G.H & P.R. Ehrlich. 2010. Biological collections and ecological/environmental research: a review, some observations and a look to the future. _Biological Reviews._ 85: 247–266. [https://doi.org/10.1111/j.1469-185X.2009.00098.x](https://doi.org/10.1111/j.1469-185X.2009.00098.x)
-
-Shultz A.J., Adams B.J., Bell K.C., Ludt W.B., Pauly G.B., & J.E. Vendetti. 2021. Natural history collections are critical resources for contemporary and future studies of urban evolution. _Evolutionary Applications._ 14: 233–247. [https://doi.org/10.1111/eva.13045](https://doi.org/10.1111/j.1469-185X.2009.00098.x)
+___
