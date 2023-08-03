@@ -6,7 +6,7 @@ date: 2023-08-01 14:00:00 -0500
 categories: announce
 ---
 
-_How do we care for vast quantities of physical specimens indefinitely? Recently, several INHS staff and UIUC students traveled to Cleveland, Ohio to find out. Over three days, we covered the ins and outs of collection management techniques, explored a new collection space in construction, and watched new tools of the trade in use. Here we share a tidbit of what we learned and our opinions._
+_How do we care for vast quantities of physical specimens (and data) indefinitely? Recently, several INHS staff and UIUC students traveled to Cleveland, Ohio to find out. Over three days, we covered the ins and outs of collection management techniques, explored a new collection space in construction, and watched new tools of the trade in use. Here we share a tidbit of what we learned and our opinions._
 
 <div style="float: right; margin: 1em;">
 <figure>
