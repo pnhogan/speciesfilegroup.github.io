@@ -37,7 +37,7 @@ How does one manage tens of thousands, hundreds of thousands, or even millions o
 How do you move large collections across the country?
 We were lucky enough to attend the Entomological Collections Network 5th Entomology Collections Management Workshop held at the Cleveland Museum of Natural History where some of these questions were answered.
 Three jam-packed days of entomological information headed by David Furth and Floyd Shockley, former and current collections managers respectively, at the Smithsonian National Museum of Natural History, attempted to bring natural history pupils
-such as ourselves to the forefront of museum curation by sharing their combined decades of experience. During these three days, we covered a wide variety of subjects which we hope to cover in this blog post.
+such as ourselves to the forefront of museum curation by sharing their combined decades of experience. Upwards of 50 participants hailing from across the globe and with similarly diverse backgrounds were given the option of attending the workshop either in-person or virtually. During these three days, we covered a wide variety of subjects which we hope to cover in this blog post.
 In brief, the main ideas of the workshop can be summarized through preparation, standardization, evaluation, and digitization. While many in-depth ideas and practices were shared with students, the aforementioned themes were widely used.
 Below we try to summarize these main points.
 
@@ -95,7 +95,9 @@ Attention to detail is vital to insect specimens, and the same is vital for thei
 
 # Concluding Statements
 
-The entomological community has demonstrated (at least successfully to us) that proper curatorial procedures are a necessity in preserving our ability to view this planet's historical biological diversity.
+The Entomological Collections Management Workshop hosted by ECN has provided an invaluable source of knowledge for students, collections managers, and entomologists. By providing an option for virtual attendance, this workshop further allowed the dissemination of curatorial knowledge to many interested individuals who were unable to travel to Cleveland, making this workshop more equitable and inclusive for the broader natural history community. We believe the main goal of this workshop, to preemptively provide us with the tools and information necessary for avoiding costly mistakes from naive trial and error, was accomplished.
+
+The entomological community has demonstrated (at the very least successfully to us) that proper curatorial procedures are a necessity in preserving our ability to view this planet's historical biological diversity.
 The presence of a species recorded through a specimen at a particular location and time tells the world plenty in terms of that species' evolutionary history and potentially its ecological interactions.
 But, the ability of museum curators to preserve and provide the data associated with that specimen _means the difference between_ a specimen tucked away, never seeing the light of day again, losing scientific value,
 and a specimen whose value is recognized by the scientific community, with data and related human expertise shared via a relational database, and whose exoskeleton is preserved for future generations to research.
@@ -113,6 +115,6 @@ Keeping an unbiased and protected record of our past where species’ locations 
 
 # Acknowledgements
 
-We would like to thank David Furth, Floyd Shockley, Nicole Gunter, Jennifer Zaspel, as well as all the individuals who worked behind the scenes to make this workshop a success.
+We would like to thank David Furth, Floyd Shockley, Nicole Gunter (Cleveland Museum of Natural History), Jennifer Zaspel (Milwaukee Public Museum), as well as all the individuals who worked behind the scenes to make this workshop a success.
 
 ___
